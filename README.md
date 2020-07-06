@@ -12,7 +12,8 @@ vSPD simulations results are saved as python dictionaries of pandas dataframes i
 
 An additional directory has been added with excel format vSPD output.  Due to the size of vSPD result files, we provide only the resulting nodal spot price files for the different vSPD runs, along with the basecase vSPD run.  ALso provided is a basecase load file which provides nodal load data for the simulation perod and a daily system load cost which is produced by vSPD.
 
-Contents of vSPD_data/EXCEL_FILES/
+Contents of https://github.com/ElectricityAuthority/2019UTS/tree/master/vSPD_data/EXCEL_FILES
+
   
   - vSPD_UTS_daily_system_load_cost_reults.xlsx (daily System Load Cost reported by vSPD)
   - vSPD_UTS_basecase_load.xlsx (basecase load)
