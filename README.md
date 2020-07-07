@@ -10,7 +10,7 @@ Spill data from Contact and Meridian, as well as reconciled generation data for 
 
 vSPD simulations results are saved as python dictionaries of pandas dataframes in the compressed parquet file format.  These reside in vSPD_data dir.
 
-An additional directory has been added with excel format vSPD output.  Due to the size of vSPD result files, we provide only the resulting nodal spot price files for the different vSPD runs, along with the basecase vSPD run.  ALso provided is a basecase load file which provides nodal load data for the simulation perod and a daily system load cost which is produced by vSPD.
+An additional directory has been added with excel format vSPD output.  Due to the size of vSPD result files, we provide only the resulting nodal spot price files for the different vSPD runs, along with the basecase vSPD run.  Also provided is a basecase load data file with nodal load data for the simulation period, along with the daily system load cost reported by vSPD for each of the simulation runs.
 
 Contents of https://github.com/ElectricityAuthority/2019UTS/tree/master/vSPD_data/EXCEL_FILES
 
