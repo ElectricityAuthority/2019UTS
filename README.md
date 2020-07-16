@@ -24,3 +24,12 @@ Contents of https://github.com/ElectricityAuthority/2019UTS/tree/master/vSPD_dat
   - vSPD_UTS_LSI_offers_20MWh_spotprice.xlsx (Nodal spot price at all nodes when LSI generation offerred at $20/MWh)
   - vSPD_UTS_LSI_offers_30MWh_spotprice.xlsx (Nodal spot price at all nodes when LSI generation offerred at $30/MWh)
 
+#### UPDATE (2020/7/16)
+
+We have added an additional vSPD analysis for November 2019 where we have adjusted offers for periods when Roxburgh and Clyde hydro stations were both spilling. 
+We have not tested if the outcome of this simulation was possible hydrologically.  
+
+The November analysis can be found here:
+
+https://github.com/ElectricityAuthority/2019UTS/blob/master/UTS2019_NOV_ROX_CYD_SPILL.ipynb
+
