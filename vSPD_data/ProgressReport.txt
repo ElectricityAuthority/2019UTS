@@ -1,0 +1,3589 @@
+Run: 'LSI_Flood_MAN_ROX_CYD_SIMI'
+
+runvSPD started at: 07/13/20 13:19:44
+vSPDsetup started at: 07/13/20 13:19:44
+vSPDreportSetup started at: 07/13/20 13:19:46
+
+Case "FP_20191109_F" started at: 07/13/20 13:19:46
+Vectorisation is switched ON
+The case: FP_20191109_F (TP1) is solved successfully.
+Objective function value: -7032.0
+Violations cost         : 0.0
+The case: FP_20191109_F (TP2) is solved successfully.
+Objective function value: -7021.5
+Violations cost         : 0.0
+The case: FP_20191109_F (TP3) is solved successfully.
+Objective function value: -7085.5
+Violations cost         : 0.0
+The case: FP_20191109_F (TP4) is solved successfully.
+Objective function value: -7164.5
+Violations cost         : 0.0
+The case: FP_20191109_F (TP5) is solved successfully.
+Objective function value: -7108.8
+Violations cost         : 0.0
+The case: FP_20191109_F (TP6) is solved successfully.
+Objective function value: -7131.5
+Violations cost         : 0.0
+The case: FP_20191109_F (TP7) is solved successfully.
+Objective function value: -7107.4
+Violations cost         : 0.0
+The case: FP_20191109_F (TP8) is solved successfully.
+Objective function value: -6995.9
+Violations cost         : 0.0
+The case: FP_20191109_F (TP9) is solved successfully.
+Objective function value: -6929.4
+Violations cost         : 0.0
+The case: FP_20191109_F (TP10) is solved successfully.
+Objective function value: -6981.3
+Violations cost         : 0.0
+The case: FP_20191109_F (TP11) is solved successfully.
+Objective function value: -7026.1
+Violations cost         : 0.0
+The case: FP_20191109_F (TP12) is solved successfully.
+Objective function value: -7345.6
+Violations cost         : 0.0
+The case: FP_20191109_F (TP13) is solved successfully.
+Objective function value: -7263.1
+Violations cost         : 0.0
+The case: FP_20191109_F (TP14) is solved successfully.
+Objective function value: -8218.1
+Violations cost         : 0.0
+The case: FP_20191109_F (TP15) is solved successfully.
+Objective function value: -9458.3
+Violations cost         : 0.0
+The case: FP_20191109_F (TP16) is solved successfully.
+Objective function value: -14304.3
+Violations cost         : 0.0
+The case: FP_20191109_F (TP17) is solved successfully.
+Objective function value: -26434.4
+Violations cost         : 0.0
+The case: FP_20191109_F (TP18) is solved successfully.
+Objective function value: -27144.4
+Violations cost         : 0.0
+The case: FP_20191109_F (TP19) is solved successfully.
+Objective function value: -26745.8
+Violations cost         : 0.0
+The case: FP_20191109_F (TP20) is solved successfully.
+Objective function value: -29417.8
+Violations cost         : 0.0
+The case: FP_20191109_F (TP21) is solved successfully.
+Objective function value: -25141.3
+Violations cost         : 0.0
+The case: FP_20191109_F (TP22) is solved successfully.
+Objective function value: -27287.8
+Violations cost         : 0.0
+The case: FP_20191109_F (TP23) is solved successfully.
+Objective function value: -23847.4
+Violations cost         : 0.0
+The case: FP_20191109_F (TP24) is solved successfully.
+Objective function value: -20887.6
+Violations cost         : 0.0
+The case: FP_20191109_F (TP25) is solved successfully.
+Objective function value: -19713.8
+Violations cost         : 0.0
+The case: FP_20191109_F (TP26) is solved successfully.
+Objective function value: -20367.5
+Violations cost         : 0.0
+The case: FP_20191109_F (TP27) is solved successfully.
+Objective function value: -29353.6
+Violations cost         : 0.0
+The case: FP_20191109_F (TP28) is solved successfully.
+Objective function value: -27690.0
+Violations cost         : 0.0
+The case: FP_20191109_F (TP29) is solved successfully.
+Objective function value: -24758.0
+Violations cost         : 0.0
+The case: FP_20191109_F (TP30) is solved successfully.
+Objective function value: -23146.7
+Violations cost         : 0.0
+The case: FP_20191109_F (TP31) is solved successfully.
+Objective function value: -21065.1
+Violations cost         : 0.0
+The case: FP_20191109_F (TP32) is solved successfully.
+Objective function value: -19938.9
+Violations cost         : 0.0
+The case: FP_20191109_F (TP33) is solved successfully.
+Objective function value: -23532.2
+Violations cost         : 0.0
+The case: FP_20191109_F (TP34) is solved successfully.
+Objective function value: -23512.9
+Violations cost         : 0.0
+The case: FP_20191109_F (TP35) is solved successfully.
+Objective function value: -26841.6
+Violations cost         : 0.0
+The case: FP_20191109_F (TP36) is solved successfully.
+Objective function value: -29078.8
+Violations cost         : 0.0
+The case: FP_20191109_F (TP37) is solved successfully.
+Objective function value: -24873.0
+Violations cost         : 0.0
+The case: FP_20191109_F (TP38) is solved successfully.
+Objective function value: -30170.1
+Violations cost         : 0.0
+The case: FP_20191109_F (TP39) is solved successfully.
+Objective function value: -27156.1
+Violations cost         : 0.0
+The case: FP_20191109_F (TP40) is solved successfully.
+Objective function value: -22506.1
+Violations cost         : 0.0
+The case: FP_20191109_F (TP41) is solved successfully.
+Objective function value: -23154.5
+Violations cost         : 0.0
+The case: FP_20191109_F (TP42) is solved successfully.
+Objective function value: -19159.9
+Violations cost         : 0.0
+The case: FP_20191109_F (TP43) is solved successfully.
+Objective function value: -15203.8
+Violations cost         : 0.0
+The case: FP_20191109_F (TP44) is solved successfully.
+Objective function value: -10143.4
+Violations cost         : 0.0
+The case: FP_20191109_F (TP45) is solved successfully.
+Objective function value: -8415.7
+Violations cost         : 0.0
+The case: FP_20191109_F (TP46) is solved successfully.
+Objective function value: -7614.6
+Violations cost         : 0.0
+The case: FP_20191109_F (TP47) is solved successfully.
+Objective function value: -7890.5
+Violations cost         : 0.0
+The case: FP_20191109_F (TP48) is solved successfully.
+Objective function value: -7216.7
+Violations cost         : 0.0
+Case: FP_20191109_F is complete in        22.80(secs)
+Case: FP_20191109_F is finished in       112.18(secs)
+
+Case "FP_20191110_F" started at: 07/13/20 13:21:38
+Vectorisation is switched ON
+The case: FP_20191110_F (TP1) is solved successfully.
+Objective function value: -7229.6
+Violations cost         : 0.0
+The case: FP_20191110_F (TP2) is solved successfully.
+Objective function value: -7572.6
+Violations cost         : 0.0
+The case: FP_20191110_F (TP3) is solved successfully.
+Objective function value: -8984.2
+Violations cost         : 0.0
+The case: FP_20191110_F (TP4) is solved successfully.
+Objective function value: -8459.4
+Violations cost         : 0.0
+The case: FP_20191110_F (TP5) is solved successfully.
+Objective function value: -8133.9
+Violations cost         : 0.0
+The case: FP_20191110_F (TP6) is solved successfully.
+Objective function value: -7908.6
+Violations cost         : 0.0
+The case: FP_20191110_F (TP7) is solved successfully.
+Objective function value: -7832.4
+Violations cost         : 0.0
+The case: FP_20191110_F (TP8) is solved successfully.
+Objective function value: -7890.7
+Violations cost         : 0.0
+The case: FP_20191110_F (TP9) is solved successfully.
+Objective function value: -7915.6
+Violations cost         : 0.0
+The case: FP_20191110_F (TP10) is solved successfully.
+Objective function value: -8872.5
+Violations cost         : 0.0
+The case: FP_20191110_F (TP11) is solved successfully.
+Objective function value: -8872.5
+Violations cost         : 0.0
+The case: FP_20191110_F (TP12) is solved successfully.
+Objective function value: -8855.6
+Violations cost         : 0.0
+The case: FP_20191110_F (TP13) is solved successfully.
+Objective function value: -7696.3
+Violations cost         : 0.0
+The case: FP_20191110_F (TP14) is solved successfully.
+Objective function value: -8674.1
+Violations cost         : 0.0
+The case: FP_20191110_F (TP15) is solved successfully.
+Objective function value: -8439.1
+Violations cost         : 0.0
+The case: FP_20191110_F (TP16) is solved successfully.
+Objective function value: -11647.2
+Violations cost         : 0.0
+The case: FP_20191110_F (TP17) is solved successfully.
+Objective function value: -21425.5
+Violations cost         : 0.0
+The case: FP_20191110_F (TP18) is solved successfully.
+Objective function value: -23307.4
+Violations cost         : 0.0
+The case: FP_20191110_F (TP19) is solved successfully.
+Objective function value: -33614.7
+Violations cost         : 0.0
+The case: FP_20191110_F (TP20) is solved successfully.
+Objective function value: -31082.9
+Violations cost         : 0.0
+The case: FP_20191110_F (TP21) is solved successfully.
+Objective function value: -25883.3
+Violations cost         : 0.0
+The case: FP_20191110_F (TP22) is solved successfully.
+Objective function value: -22754.8
+Violations cost         : 0.0
+The case: FP_20191110_F (TP23) is solved successfully.
+Objective function value: -21678.8
+Violations cost         : 0.0
+The case: FP_20191110_F (TP24) is solved successfully.
+Objective function value: -20106.1
+Violations cost         : 0.0
+The case: FP_20191110_F (TP25) is solved successfully.
+Objective function value: -16647.5
+Violations cost         : 0.0
+The case: FP_20191110_F (TP26) is solved successfully.
+Objective function value: -22134.4
+Violations cost         : 0.0
+The case: FP_20191110_F (TP27) is solved successfully.
+Objective function value: -23750.6
+Violations cost         : 0.0
+The case: FP_20191110_F (TP28) is solved successfully.
+Objective function value: -27310.0
+Violations cost         : 0.0
+The case: FP_20191110_F (TP29) is solved successfully.
+Objective function value: -32330.5
+Violations cost         : 0.0
+The case: FP_20191110_F (TP30) is solved successfully.
+Objective function value: -27752.0
+Violations cost         : 0.0
+The case: FP_20191110_F (TP31) is solved successfully.
+Objective function value: -30809.8
+Violations cost         : 0.0
+The case: FP_20191110_F (TP32) is solved successfully.
+Objective function value: -32245.6
+Violations cost         : 0.0
+The case: FP_20191110_F (TP33) is solved successfully.
+Objective function value: -33961.3
+Violations cost         : 0.0
+The case: FP_20191110_F (TP34) is solved successfully.
+Objective function value: -35741.8
+Violations cost         : 0.0
+The case: FP_20191110_F (TP35) is solved successfully.
+Objective function value: -40750.1
+Violations cost         : 0.0
+The case: FP_20191110_F (TP36) is solved successfully.
+Objective function value: -40629.5
+Violations cost         : 0.0
+The case: FP_20191110_F (TP37) is solved successfully.
+Objective function value: -33208.4
+Violations cost         : 0.0
+The case: FP_20191110_F (TP38) is solved successfully.
+Objective function value: -44483.6
+Violations cost         : 0.0
+The case: FP_20191110_F (TP39) is solved successfully.
+Objective function value: -37466.1
+Violations cost         : 0.0
+The case: FP_20191110_F (TP40) is solved successfully.
+Objective function value: -40850.6
+Violations cost         : 0.0
+The case: FP_20191110_F (TP41) is solved successfully.
+Objective function value: -35265.2
+Violations cost         : 0.0
+The case: FP_20191110_F (TP42) is solved successfully.
+Objective function value: -24197.5
+Violations cost         : 0.0
+The case: FP_20191110_F (TP43) is solved successfully.
+Objective function value: -17701.3
+Violations cost         : 0.0
+The case: FP_20191110_F (TP44) is solved successfully.
+Objective function value: -12476.1
+Violations cost         : 0.0
+The case: FP_20191110_F (TP45) is solved successfully.
+Objective function value: -8503.8
+Violations cost         : 0.0
+The case: FP_20191110_F (TP46) is solved successfully.
+Objective function value: -7786.7
+Violations cost         : 0.0
+The case: FP_20191110_F (TP47) is solved successfully.
+Objective function value: -7556.1
+Violations cost         : 0.0
+The case: FP_20191110_F (TP48) is solved successfully.
+Objective function value: -7455.1
+Violations cost         : 0.0
+Case: FP_20191110_F is complete in        22.80(secs)
+Case: FP_20191110_F is finished in       113.05(secs)
+
+Case "FP_20191111_F" started at: 07/13/20 13:23:32
+Vectorisation is switched ON
+The case: FP_20191111_F (TP1) is solved successfully.
+Objective function value: -7059.2
+Violations cost         : 0.0
+The case: FP_20191111_F (TP2) is solved successfully.
+Objective function value: -6570.4
+Violations cost         : 0.0
+The case: FP_20191111_F (TP3) is solved successfully.
+Objective function value: -8224.5
+Violations cost         : 0.0
+The case: FP_20191111_F (TP4) is solved successfully.
+Objective function value: -7932.9
+Violations cost         : 0.0
+The case: FP_20191111_F (TP5) is solved successfully.
+Objective function value: -8449.3
+Violations cost         : 0.0
+The case: FP_20191111_F (TP6) is solved successfully.
+Objective function value: -7837.1
+Violations cost         : 0.0
+The case: FP_20191111_F (TP7) is solved successfully.
+Objective function value: -7506.1
+Violations cost         : 0.0
+The case: FP_20191111_F (TP8) is solved successfully.
+Objective function value: -7632.2
+Violations cost         : 0.0
+The case: FP_20191111_F (TP9) is solved successfully.
+Objective function value: -7667.4
+Violations cost         : 0.0
+The case: FP_20191111_F (TP10) is solved successfully.
+Objective function value: -7416.7
+Violations cost         : 0.0
+The case: FP_20191111_F (TP11) is solved successfully.
+Objective function value: -8000.5
+Violations cost         : 0.0
+The case: FP_20191111_F (TP12) is solved successfully.
+Objective function value: -8280.5
+Violations cost         : 0.0
+The case: FP_20191111_F (TP13) is solved successfully.
+Objective function value: -8795.5
+Violations cost         : 0.0
+The case: FP_20191111_F (TP14) is solved successfully.
+Objective function value: -11891.7
+Violations cost         : 0.0
+The case: FP_20191111_F (TP15) is solved successfully.
+Objective function value: -21740.6
+Violations cost         : 0.0
+The case: FP_20191111_F (TP16) is solved successfully.
+Objective function value: -27298.0
+Violations cost         : 0.0
+The case: FP_20191111_F (TP17) is solved successfully.
+Objective function value: -28850.0
+Violations cost         : 0.0
+The case: FP_20191111_F (TP18) is solved successfully.
+Objective function value: -23985.7
+Violations cost         : 0.0
+The case: FP_20191111_F (TP19) is solved successfully.
+Objective function value: -27414.6
+Violations cost         : 0.0
+The case: FP_20191111_F (TP20) is solved successfully.
+Objective function value: -29968.8
+Violations cost         : 0.0
+The case: FP_20191111_F (TP21) is solved successfully.
+Objective function value: -26787.2
+Violations cost         : 0.0
+The case: FP_20191111_F (TP22) is solved successfully.
+Objective function value: -26756.8
+Violations cost         : 0.0
+The case: FP_20191111_F (TP23) is solved successfully.
+Objective function value: -23063.8
+Violations cost         : 0.0
+The case: FP_20191111_F (TP24) is solved successfully.
+Objective function value: -31500.6
+Violations cost         : 0.0
+The case: FP_20191111_F (TP25) is solved successfully.
+Objective function value: -33775.3
+Violations cost         : 0.0
+The case: FP_20191111_F (TP26) is solved successfully.
+Objective function value: -29980.1
+Violations cost         : 0.0
+The case: FP_20191111_F (TP27) is solved successfully.
+Objective function value: -31408.3
+Violations cost         : 0.0
+The case: FP_20191111_F (TP28) is solved successfully.
+Objective function value: -32479.7
+Violations cost         : 0.0
+The case: FP_20191111_F (TP29) is solved successfully.
+Objective function value: -32173.2
+Violations cost         : 0.0
+The case: FP_20191111_F (TP30) is solved successfully.
+Objective function value: -39629.7
+Violations cost         : 0.0
+The case: FP_20191111_F (TP31) is solved successfully.
+Objective function value: -26908.2
+Violations cost         : 0.0
+The case: FP_20191111_F (TP32) is solved successfully.
+Objective function value: -19120.3
+Violations cost         : 0.0
+The case: FP_20191111_F (TP33) is solved successfully.
+Objective function value: -17033.9
+Violations cost         : 0.0
+The case: FP_20191111_F (TP34) is solved successfully.
+Objective function value: -17714.9
+Violations cost         : 0.0
+The case: FP_20191111_F (TP35) is solved successfully.
+Objective function value: -21757.5
+Violations cost         : 0.0
+The case: FP_20191111_F (TP36) is solved successfully.
+Objective function value: -25111.8
+Violations cost         : 0.0
+The case: FP_20191111_F (TP37) is solved successfully.
+Objective function value: -23635.7
+Violations cost         : 0.0
+The case: FP_20191111_F (TP38) is solved successfully.
+Objective function value: -23367.4
+Violations cost         : 0.0
+The case: FP_20191111_F (TP39) is solved successfully.
+Objective function value: -24993.7
+Violations cost         : 0.0
+The case: FP_20191111_F (TP40) is solved successfully.
+Objective function value: -18444.7
+Violations cost         : 0.0
+The case: FP_20191111_F (TP41) is solved successfully.
+Objective function value: -19594.4
+Violations cost         : 0.0
+The case: FP_20191111_F (TP42) is solved successfully.
+Objective function value: -18669.7
+Violations cost         : 0.0
+The case: FP_20191111_F (TP43) is solved successfully.
+Objective function value: -15524.9
+Violations cost         : 0.0
+The case: FP_20191111_F (TP44) is solved successfully.
+Objective function value: -13132.7
+Violations cost         : 0.0
+The case: FP_20191111_F (TP45) is solved successfully.
+Objective function value: -9428.8
+Violations cost         : 0.0
+The case: FP_20191111_F (TP46) is solved successfully.
+Objective function value: -7765.6
+Violations cost         : 0.0
+The case: FP_20191111_F (TP47) is solved successfully.
+Objective function value: -7057.8
+Violations cost         : 0.0
+The case: FP_20191111_F (TP48) is solved successfully.
+Objective function value: -8882.2
+Violations cost         : 0.0
+Case: FP_20191111_F is complete in        23.93(secs)
+Case: FP_20191111_F is finished in       115.29(secs)
+
+Case "FP_20191112_F" started at: 07/13/20 13:25:27
+Vectorisation is switched ON
+The case: FP_20191112_F (TP1) is solved successfully.
+Objective function value: -7833.1
+Violations cost         : 0.0
+The case: FP_20191112_F (TP2) is solved successfully.
+Objective function value: -7970.2
+Violations cost         : 0.0
+The case: FP_20191112_F (TP3) is solved successfully.
+Objective function value: -7428.6
+Violations cost         : 0.0
+The case: FP_20191112_F (TP4) is solved successfully.
+Objective function value: -7055.9
+Violations cost         : 0.0
+The case: FP_20191112_F (TP5) is solved successfully.
+Objective function value: -6978.9
+Violations cost         : 0.0
+The case: FP_20191112_F (TP6) is solved successfully.
+Objective function value: -6898.3
+Violations cost         : 0.0
+The case: FP_20191112_F (TP7) is solved successfully.
+Objective function value: -7152.8
+Violations cost         : 0.0
+The case: FP_20191112_F (TP8) is solved successfully.
+Objective function value: -7117.2
+Violations cost         : 0.0
+The case: FP_20191112_F (TP9) is solved successfully.
+Objective function value: -7363.2
+Violations cost         : 0.0
+The case: FP_20191112_F (TP10) is solved successfully.
+Objective function value: -7591.9
+Violations cost         : 0.0
+The case: FP_20191112_F (TP11) is solved successfully.
+Objective function value: -8539.6
+Violations cost         : 0.0
+The case: FP_20191112_F (TP12) is solved successfully.
+Objective function value: -11297.0
+Violations cost         : 0.0
+The case: FP_20191112_F (TP13) is solved successfully.
+Objective function value: -10310.5
+Violations cost         : 0.0
+The case: FP_20191112_F (TP14) is solved successfully.
+Objective function value: -24966.9
+Violations cost         : 0.0
+The case: FP_20191112_F (TP15) is solved successfully.
+Objective function value: -41172.8
+Violations cost         : 0.0
+The case: FP_20191112_F (TP16) is solved successfully.
+Objective function value: -51917.5
+Violations cost         : 0.0
+The case: FP_20191112_F (TP17) is solved successfully.
+Objective function value: -57956.3
+Violations cost         : 0.0
+The case: FP_20191112_F (TP18) is solved successfully.
+Objective function value: -59369.6
+Violations cost         : 0.0
+The case: FP_20191112_F (TP19) is solved successfully.
+Objective function value: -56328.7
+Violations cost         : 0.0
+The case: FP_20191112_F (TP20) is solved successfully.
+Objective function value: -35199.3
+Violations cost         : 0.0
+The case: FP_20191112_F (TP21) is solved successfully.
+Objective function value: -36524.5
+Violations cost         : 0.0
+The case: FP_20191112_F (TP22) is solved successfully.
+Objective function value: -36150.7
+Violations cost         : 0.0
+The case: FP_20191112_F (TP23) is solved successfully.
+Objective function value: -29684.7
+Violations cost         : 0.0
+The case: FP_20191112_F (TP24) is solved successfully.
+Objective function value: -26728.7
+Violations cost         : 0.0
+The case: FP_20191112_F (TP25) is solved successfully.
+Objective function value: -20890.8
+Violations cost         : 0.0
+The case: FP_20191112_F (TP26) is solved successfully.
+Objective function value: -19758.0
+Violations cost         : 0.0
+The case: FP_20191112_F (TP27) is solved successfully.
+Objective function value: -22785.7
+Violations cost         : 0.0
+The case: FP_20191112_F (TP28) is solved successfully.
+Objective function value: -20641.1
+Violations cost         : 0.0
+The case: FP_20191112_F (TP29) is solved successfully.
+Objective function value: -21612.1
+Violations cost         : 0.0
+The case: FP_20191112_F (TP30) is solved successfully.
+Objective function value: -18210.2
+Violations cost         : 0.0
+The case: FP_20191112_F (TP31) is solved successfully.
+Objective function value: -17230.7
+Violations cost         : 0.0
+The case: FP_20191112_F (TP32) is solved successfully.
+Objective function value: -15159.1
+Violations cost         : 0.0
+The case: FP_20191112_F (TP33) is solved successfully.
+Objective function value: -17862.7
+Violations cost         : 0.0
+The case: FP_20191112_F (TP34) is solved successfully.
+Objective function value: -16620.9
+Violations cost         : 0.0
+The case: FP_20191112_F (TP35) is solved successfully.
+Objective function value: -15351.1
+Violations cost         : 0.0
+The case: FP_20191112_F (TP36) is solved successfully.
+Objective function value: -17395.8
+Violations cost         : 0.0
+The case: FP_20191112_F (TP37) is solved successfully.
+Objective function value: -16639.7
+Violations cost         : 0.0
+The case: FP_20191112_F (TP38) is solved successfully.
+Objective function value: -21361.6
+Violations cost         : 0.0
+The case: FP_20191112_F (TP39) is solved successfully.
+Objective function value: -18759.8
+Violations cost         : 0.0
+The case: FP_20191112_F (TP40) is solved successfully.
+Objective function value: -15233.0
+Violations cost         : 0.0
+The case: FP_20191112_F (TP41) is solved successfully.
+Objective function value: -18654.6
+Violations cost         : 0.0
+The case: FP_20191112_F (TP42) is solved successfully.
+Objective function value: -23011.3
+Violations cost         : 0.0
+The case: FP_20191112_F (TP43) is solved successfully.
+Objective function value: -19399.7
+Violations cost         : 0.0
+The case: FP_20191112_F (TP44) is solved successfully.
+Objective function value: -15227.8
+Violations cost         : 0.0
+The case: FP_20191112_F (TP45) is solved successfully.
+Objective function value: -13274.5
+Violations cost         : 0.0
+The case: FP_20191112_F (TP46) is solved successfully.
+Objective function value: -8731.4
+Violations cost         : 0.0
+The case: FP_20191112_F (TP47) is solved successfully.
+Objective function value: -8524.9
+Violations cost         : 0.0
+The case: FP_20191112_F (TP48) is solved successfully.
+Objective function value: -7382.7
+Violations cost         : 0.0
+Case: FP_20191112_F is complete in        25.82(secs)
+Case: FP_20191112_F is finished in       117.53(secs)
+
+Case "FP_20191113_F" started at: 07/13/20 13:27:27
+Vectorisation is switched ON
+The case: FP_20191113_F (TP1) is solved successfully.
+Objective function value: -6819.5
+Violations cost         : 0.0
+The case: FP_20191113_F (TP2) is solved successfully.
+Objective function value: -6723.2
+Violations cost         : 0.0
+The case: FP_20191113_F (TP3) is solved successfully.
+Objective function value: -6238.4
+Violations cost         : 0.0
+The case: FP_20191113_F (TP4) is solved successfully.
+Objective function value: -5275.7
+Violations cost         : 0.0
+The case: FP_20191113_F (TP5) is solved successfully.
+Objective function value: -4812.6
+Violations cost         : 0.0
+The case: FP_20191113_F (TP6) is solved successfully.
+Objective function value: -4798.2
+Violations cost         : 0.0
+The case: FP_20191113_F (TP7) is solved successfully.
+Objective function value: -5110.4
+Violations cost         : 0.0
+The case: FP_20191113_F (TP8) is solved successfully.
+Objective function value: -5850.0
+Violations cost         : 0.0
+The case: FP_20191113_F (TP9) is solved successfully.
+Objective function value: -6018.3
+Violations cost         : 0.0
+The case: FP_20191113_F (TP10) is solved successfully.
+Objective function value: -7067.7
+Violations cost         : 0.0
+The case: FP_20191113_F (TP11) is solved successfully.
+Objective function value: -7732.4
+Violations cost         : 0.0
+The case: FP_20191113_F (TP12) is solved successfully.
+Objective function value: -7825.9
+Violations cost         : 0.0
+The case: FP_20191113_F (TP13) is solved successfully.
+Objective function value: -9593.7
+Violations cost         : 0.0
+The case: FP_20191113_F (TP14) is solved successfully.
+Objective function value: -16559.5
+Violations cost         : 0.0
+The case: FP_20191113_F (TP15) is solved successfully.
+Objective function value: -21115.1
+Violations cost         : 0.0
+The case: FP_20191113_F (TP16) is solved successfully.
+Objective function value: -29430.7
+Violations cost         : 0.0
+The case: FP_20191113_F (TP17) is solved successfully.
+Objective function value: -22871.1
+Violations cost         : 0.0
+The case: FP_20191113_F (TP18) is solved successfully.
+Objective function value: -20928.1
+Violations cost         : 0.0
+The case: FP_20191113_F (TP19) is solved successfully.
+Objective function value: -16995.8
+Violations cost         : 0.0
+The case: FP_20191113_F (TP20) is solved successfully.
+Objective function value: -19465.3
+Violations cost         : 0.0
+The case: FP_20191113_F (TP21) is solved successfully.
+Objective function value: -17738.1
+Violations cost         : 0.0
+The case: FP_20191113_F (TP22) is solved successfully.
+Objective function value: -13891.1
+Violations cost         : 0.0
+The case: FP_20191113_F (TP23) is solved successfully.
+Objective function value: -13976.5
+Violations cost         : 0.0
+The case: FP_20191113_F (TP24) is solved successfully.
+Objective function value: -13128.3
+Violations cost         : 0.0
+The case: FP_20191113_F (TP25) is solved successfully.
+Objective function value: -11421.4
+Violations cost         : 0.0
+The case: FP_20191113_F (TP26) is solved successfully.
+Objective function value: -11708.7
+Violations cost         : 0.0
+The case: FP_20191113_F (TP27) is solved successfully.
+Objective function value: -13124.2
+Violations cost         : 0.0
+The case: FP_20191113_F (TP28) is solved successfully.
+Objective function value: -11980.4
+Violations cost         : 0.0
+The case: FP_20191113_F (TP29) is solved successfully.
+Objective function value: -12324.0
+Violations cost         : 0.0
+The case: FP_20191113_F (TP30) is solved successfully.
+Objective function value: -9165.0
+Violations cost         : 0.0
+The case: FP_20191113_F (TP31) is solved successfully.
+Objective function value: -13195.4
+Violations cost         : 0.0
+The case: FP_20191113_F (TP32) is solved successfully.
+Objective function value: -14003.8
+Violations cost         : 0.0
+The case: FP_20191113_F (TP33) is solved successfully.
+Objective function value: -15645.7
+Violations cost         : 0.0
+The case: FP_20191113_F (TP34) is solved successfully.
+Objective function value: -17739.7
+Violations cost         : 0.0
+The case: FP_20191113_F (TP35) is solved successfully.
+Objective function value: -16625.0
+Violations cost         : 0.0
+The case: FP_20191113_F (TP36) is solved successfully.
+Objective function value: -16792.0
+Violations cost         : 0.0
+The case: FP_20191113_F (TP37) is solved successfully.
+Objective function value: -18305.4
+Violations cost         : 0.0
+The case: FP_20191113_F (TP38) is solved successfully.
+Objective function value: -21597.7
+Violations cost         : 0.0
+The case: FP_20191113_F (TP39) is solved successfully.
+Objective function value: -16174.3
+Violations cost         : 0.0
+The case: FP_20191113_F (TP40) is solved successfully.
+Objective function value: -21683.0
+Violations cost         : 0.0
+The case: FP_20191113_F (TP41) is solved successfully.
+Objective function value: -25704.9
+Violations cost         : 0.0
+The case: FP_20191113_F (TP42) is solved successfully.
+Objective function value: -27643.8
+Violations cost         : 0.0
+The case: FP_20191113_F (TP43) is solved successfully.
+Objective function value: -22300.7
+Violations cost         : 0.0
+The case: FP_20191113_F (TP44) is solved successfully.
+Objective function value: -23891.2
+Violations cost         : 0.0
+The case: FP_20191113_F (TP45) is solved successfully.
+Objective function value: -20928.0
+Violations cost         : 0.0
+The case: FP_20191113_F (TP46) is solved successfully.
+Objective function value: -17828.0
+Violations cost         : 0.0
+The case: FP_20191113_F (TP47) is solved successfully.
+Objective function value: -16239.6
+Violations cost         : 0.0
+The case: FP_20191113_F (TP48) is solved successfully.
+Objective function value: -11958.0
+Violations cost         : 0.0
+Case: FP_20191113_F is complete in        24.22(secs)
+Case: FP_20191113_F is finished in       114.30(secs)
+
+Case "FP_20191114_F" started at: 07/13/20 13:29:22
+Vectorisation is switched ON
+The case: FP_20191114_F (TP1) is solved successfully.
+Objective function value: -8294.5
+Violations cost         : 0.0
+The case: FP_20191114_F (TP2) is solved successfully.
+Objective function value: -7143.9
+Violations cost         : 0.0
+The case: FP_20191114_F (TP3) is solved successfully.
+Objective function value: -5861.9
+Violations cost         : 0.0
+The case: FP_20191114_F (TP4) is solved successfully.
+Objective function value: -5565.3
+Violations cost         : 0.0
+The case: FP_20191114_F (TP5) is solved successfully.
+Objective function value: -5458.3
+Violations cost         : 0.0
+The case: FP_20191114_F (TP6) is solved successfully.
+Objective function value: -5204.4
+Violations cost         : 0.0
+The case: FP_20191114_F (TP7) is solved successfully.
+Objective function value: -5577.9
+Violations cost         : 0.0
+The case: FP_20191114_F (TP8) is solved successfully.
+Objective function value: -5382.2
+Violations cost         : 0.0
+The case: FP_20191114_F (TP9) is solved successfully.
+Objective function value: -5426.5
+Violations cost         : 0.0
+The case: FP_20191114_F (TP10) is solved successfully.
+Objective function value: -5901.5
+Violations cost         : 0.0
+The case: FP_20191114_F (TP11) is solved successfully.
+Objective function value: -7435.1
+Violations cost         : 0.0
+The case: FP_20191114_F (TP12) is solved successfully.
+Objective function value: -8058.9
+Violations cost         : 0.0
+The case: FP_20191114_F (TP13) is solved successfully.
+Objective function value: -8240.1
+Violations cost         : 0.0
+The case: FP_20191114_F (TP14) is solved successfully.
+Objective function value: -10012.6
+Violations cost         : 0.0
+The case: FP_20191114_F (TP15) is solved successfully.
+Objective function value: -19245.7
+Violations cost         : 0.0
+The case: FP_20191114_F (TP16) is solved successfully.
+Objective function value: -30399.6
+Violations cost         : 0.0
+The case: FP_20191114_F (TP17) is solved successfully.
+Objective function value: -32646.0
+Violations cost         : 0.0
+The case: FP_20191114_F (TP18) is solved successfully.
+Objective function value: -30588.4
+Violations cost         : 0.0
+The case: FP_20191114_F (TP19) is solved successfully.
+Objective function value: -22618.2
+Violations cost         : 0.0
+The case: FP_20191114_F (TP20) is solved successfully.
+Objective function value: -11852.1
+Violations cost         : 0.0
+The case: FP_20191114_F (TP21) is solved successfully.
+Objective function value: -17445.8
+Violations cost         : 0.0
+The case: FP_20191114_F (TP22) is solved successfully.
+Objective function value: -16340.2
+Violations cost         : 0.0
+The case: FP_20191114_F (TP23) is solved successfully.
+Objective function value: -14490.3
+Violations cost         : 0.0
+The case: FP_20191114_F (TP24) is solved successfully.
+Objective function value: -13030.6
+Violations cost         : 0.0
+The case: FP_20191114_F (TP25) is solved successfully.
+Objective function value: -11646.1
+Violations cost         : 0.0
+The case: FP_20191114_F (TP26) is solved successfully.
+Objective function value: -13218.8
+Violations cost         : 0.0
+The case: FP_20191114_F (TP27) is solved successfully.
+Objective function value: -12111.6
+Violations cost         : 0.0
+The case: FP_20191114_F (TP28) is solved successfully.
+Objective function value: -12331.5
+Violations cost         : 0.0
+The case: FP_20191114_F (TP29) is solved successfully.
+Objective function value: -14044.6
+Violations cost         : 0.0
+The case: FP_20191114_F (TP30) is solved successfully.
+Objective function value: -12521.7
+Violations cost         : 0.0
+The case: FP_20191114_F (TP31) is solved successfully.
+Objective function value: -19976.8
+Violations cost         : 0.0
+The case: FP_20191114_F (TP32) is solved successfully.
+Objective function value: -24082.6
+Violations cost         : 0.0
+The case: FP_20191114_F (TP33) is solved successfully.
+Objective function value: -19562.9
+Violations cost         : 0.0
+The case: FP_20191114_F (TP34) is solved successfully.
+Objective function value: -23820.4
+Violations cost         : 0.0
+The case: FP_20191114_F (TP35) is solved successfully.
+Objective function value: -24371.9
+Violations cost         : 0.0
+The case: FP_20191114_F (TP36) is solved successfully.
+Objective function value: -21228.4
+Violations cost         : 0.0
+The case: FP_20191114_F (TP37) is solved successfully.
+Objective function value: -24302.6
+Violations cost         : 0.0
+The case: FP_20191114_F (TP38) is solved successfully.
+Objective function value: -28940.9
+Violations cost         : 0.0
+The case: FP_20191114_F (TP39) is solved successfully.
+Objective function value: -16382.1
+Violations cost         : 0.0
+The case: FP_20191114_F (TP40) is solved successfully.
+Objective function value: -16075.1
+Violations cost         : 0.0
+The case: FP_20191114_F (TP41) is solved successfully.
+Objective function value: -15289.4
+Violations cost         : 0.0
+The case: FP_20191114_F (TP42) is solved successfully.
+Objective function value: -18176.9
+Violations cost         : 0.0
+The case: FP_20191114_F (TP43) is solved successfully.
+Objective function value: -14454.1
+Violations cost         : 0.0
+The case: FP_20191114_F (TP44) is solved successfully.
+Objective function value: -15643.0
+Violations cost         : 0.0
+The case: FP_20191114_F (TP45) is solved successfully.
+Objective function value: -19764.9
+Violations cost         : 0.0
+The case: FP_20191114_F (TP46) is solved successfully.
+Objective function value: -15795.4
+Violations cost         : 0.0
+The case: FP_20191114_F (TP47) is solved successfully.
+Objective function value: -17785.7
+Violations cost         : 0.0
+The case: FP_20191114_F (TP48) is solved successfully.
+Objective function value: -15685.2
+Violations cost         : 0.0
+Case: FP_20191114_F is complete in        22.69(secs)
+Case: FP_20191114_F is finished in       109.63(secs)
+
+Case "FP_20191115_F" started at: 07/13/20 13:31:12
+Vectorisation is switched ON
+The case: FP_20191115_F (TP1) is solved successfully.
+Objective function value: -10189.6
+Violations cost         : 0.0
+The case: FP_20191115_F (TP2) is solved successfully.
+Objective function value: -9963.4
+Violations cost         : 0.0
+The case: FP_20191115_F (TP3) is solved successfully.
+Objective function value: -8364.6
+Violations cost         : 0.0
+The case: FP_20191115_F (TP4) is solved successfully.
+Objective function value: -7929.8
+Violations cost         : 0.0
+The case: FP_20191115_F (TP5) is solved successfully.
+Objective function value: -7159.5
+Violations cost         : 0.0
+The case: FP_20191115_F (TP6) is solved successfully.
+Objective function value: -6620.2
+Violations cost         : 0.0
+The case: FP_20191115_F (TP7) is solved successfully.
+Objective function value: -5647.6
+Violations cost         : 0.0
+The case: FP_20191115_F (TP8) is solved successfully.
+Objective function value: -5756.1
+Violations cost         : 0.0
+The case: FP_20191115_F (TP9) is solved successfully.
+Objective function value: -5478.9
+Violations cost         : 0.0
+The case: FP_20191115_F (TP10) is solved successfully.
+Objective function value: -5608.9
+Violations cost         : 0.0
+The case: FP_20191115_F (TP11) is solved successfully.
+Objective function value: -6090.3
+Violations cost         : 0.0
+The case: FP_20191115_F (TP12) is solved successfully.
+Objective function value: -8358.4
+Violations cost         : 0.0
+The case: FP_20191115_F (TP13) is solved successfully.
+Objective function value: -12515.4
+Violations cost         : 0.0
+The case: FP_20191115_F (TP14) is solved successfully.
+Objective function value: -13636.2
+Violations cost         : 0.0
+The case: FP_20191115_F (TP15) is solved successfully.
+Objective function value: -16477.8
+Violations cost         : 0.0
+The case: FP_20191115_F (TP16) is solved successfully.
+Objective function value: -19086.1
+Violations cost         : 0.0
+The case: FP_20191115_F (TP17) is solved successfully.
+Objective function value: -21718.0
+Violations cost         : 0.0
+The case: FP_20191115_F (TP18) is solved successfully.
+Objective function value: -20248.5
+Violations cost         : 0.0
+The case: FP_20191115_F (TP19) is solved successfully.
+Objective function value: -15919.7
+Violations cost         : 0.0
+The case: FP_20191115_F (TP20) is solved successfully.
+Objective function value: -18755.6
+Violations cost         : 0.0
+The case: FP_20191115_F (TP21) is solved successfully.
+Objective function value: -19551.8
+Violations cost         : 0.0
+The case: FP_20191115_F (TP22) is solved successfully.
+Objective function value: -18915.5
+Violations cost         : 0.0
+The case: FP_20191115_F (TP23) is solved successfully.
+Objective function value: -18109.0
+Violations cost         : 0.0
+The case: FP_20191115_F (TP24) is solved successfully.
+Objective function value: -16284.3
+Violations cost         : 0.0
+The case: FP_20191115_F (TP25) is solved successfully.
+Objective function value: -12007.8
+Violations cost         : 0.0
+The case: FP_20191115_F (TP26) is solved successfully.
+Objective function value: -11984.9
+Violations cost         : 0.0
+The case: FP_20191115_F (TP27) is solved successfully.
+Objective function value: -12216.2
+Violations cost         : 0.0
+The case: FP_20191115_F (TP28) is solved successfully.
+Objective function value: -10356.5
+Violations cost         : 0.0
+The case: FP_20191115_F (TP29) is solved successfully.
+Objective function value: -9674.8
+Violations cost         : 0.0
+The case: FP_20191115_F (TP30) is solved successfully.
+Objective function value: -9094.2
+Violations cost         : 0.0
+The case: FP_20191115_F (TP31) is solved successfully.
+Objective function value: -8820.9
+Violations cost         : 0.0
+The case: FP_20191115_F (TP32) is solved successfully.
+Objective function value: -9309.4
+Violations cost         : 0.0
+The case: FP_20191115_F (TP33) is solved successfully.
+Objective function value: -9390.4
+Violations cost         : 0.0
+The case: FP_20191115_F (TP34) is solved successfully.
+Objective function value: -11202.4
+Violations cost         : 0.0
+The case: FP_20191115_F (TP35) is solved successfully.
+Objective function value: -10420.4
+Violations cost         : 0.0
+The case: FP_20191115_F (TP36) is solved successfully.
+Objective function value: -18325.0
+Violations cost         : 0.0
+The case: FP_20191115_F (TP37) is solved successfully.
+Objective function value: -13109.6
+Violations cost         : 0.0
+The case: FP_20191115_F (TP38) is solved successfully.
+Objective function value: -12689.0
+Violations cost         : 0.0
+The case: FP_20191115_F (TP39) is solved successfully.
+Objective function value: -12120.6
+Violations cost         : 0.0
+The case: FP_20191115_F (TP40) is solved successfully.
+Objective function value: -12871.7
+Violations cost         : 0.0
+The case: FP_20191115_F (TP41) is solved successfully.
+Objective function value: -12126.7
+Violations cost         : 0.0
+The case: FP_20191115_F (TP42) is solved successfully.
+Objective function value: -14872.0
+Violations cost         : 0.0
+The case: FP_20191115_F (TP43) is solved successfully.
+Objective function value: -14667.4
+Violations cost         : 0.0
+The case: FP_20191115_F (TP44) is solved successfully.
+Objective function value: -13087.5
+Violations cost         : 0.0
+The case: FP_20191115_F (TP45) is solved successfully.
+Objective function value: -14860.3
+Violations cost         : 0.0
+The case: FP_20191115_F (TP46) is solved successfully.
+Objective function value: -8346.7
+Violations cost         : 0.0
+The case: FP_20191115_F (TP47) is solved successfully.
+Objective function value: -8288.6
+Violations cost         : 0.0
+The case: FP_20191115_F (TP48) is solved successfully.
+Objective function value: -6285.2
+Violations cost         : 0.0
+Case: FP_20191115_F is complete in        23.12(secs)
+Case: FP_20191115_F is finished in       110.06(secs)
+
+Case "FP_20191116_F" started at: 07/13/20 13:33:03
+Vectorisation is switched ON
+The case: FP_20191116_F (TP1) is solved successfully.
+Objective function value: -5852.7
+Violations cost         : 0.0
+The case: FP_20191116_F (TP2) is solved successfully.
+Objective function value: -5647.2
+Violations cost         : 0.0
+The case: FP_20191116_F (TP3) is solved successfully.
+Objective function value: -6180.3
+Violations cost         : 0.0
+The case: FP_20191116_F (TP4) is solved successfully.
+Objective function value: -6434.8
+Violations cost         : 0.0
+The case: FP_20191116_F (TP5) is solved successfully.
+Objective function value: -6268.7
+Violations cost         : 0.0
+The case: FP_20191116_F (TP6) is solved successfully.
+Objective function value: -6220.1
+Violations cost         : 0.0
+The case: FP_20191116_F (TP7) is solved successfully.
+Objective function value: -5818.1
+Violations cost         : 0.0
+The case: FP_20191116_F (TP8) is solved successfully.
+Objective function value: -5523.8
+Violations cost         : 0.0
+The case: FP_20191116_F (TP9) is solved successfully.
+Objective function value: -5156.4
+Violations cost         : 0.0
+The case: FP_20191116_F (TP10) is solved successfully.
+Objective function value: -5100.2
+Violations cost         : 0.0
+The case: FP_20191116_F (TP11) is solved successfully.
+Objective function value: -5668.5
+Violations cost         : 0.0
+The case: FP_20191116_F (TP12) is solved successfully.
+Objective function value: -5848.0
+Violations cost         : 0.0
+The case: FP_20191116_F (TP13) is solved successfully.
+Objective function value: -7238.4
+Violations cost         : 0.0
+The case: FP_20191116_F (TP14) is solved successfully.
+Objective function value: -8245.2
+Violations cost         : 0.0
+The case: FP_20191116_F (TP15) is solved successfully.
+Objective function value: -10830.2
+Violations cost         : 0.0
+The case: FP_20191116_F (TP16) is solved successfully.
+Objective function value: -16715.2
+Violations cost         : 0.0
+The case: FP_20191116_F (TP17) is solved successfully.
+Objective function value: -17332.7
+Violations cost         : 0.0
+The case: FP_20191116_F (TP18) is solved successfully.
+Objective function value: -17573.2
+Violations cost         : 0.0
+The case: FP_20191116_F (TP19) is solved successfully.
+Objective function value: -16320.7
+Violations cost         : 0.0
+The case: FP_20191116_F (TP20) is solved successfully.
+Objective function value: -17131.5
+Violations cost         : 0.0
+The case: FP_20191116_F (TP21) is solved successfully.
+Objective function value: -17668.2
+Violations cost         : 0.0
+The case: FP_20191116_F (TP22) is solved successfully.
+Objective function value: -19428.9
+Violations cost         : 0.0
+The case: FP_20191116_F (TP23) is solved successfully.
+Objective function value: -15950.1
+Violations cost         : 0.0
+The case: FP_20191116_F (TP24) is solved successfully.
+Objective function value: -15966.5
+Violations cost         : 0.0
+The case: FP_20191116_F (TP25) is solved successfully.
+Objective function value: -12982.4
+Violations cost         : 0.0
+The case: FP_20191116_F (TP26) is solved successfully.
+Objective function value: -12966.5
+Violations cost         : 0.0
+The case: FP_20191116_F (TP27) is solved successfully.
+Objective function value: -12324.9
+Violations cost         : 0.0
+The case: FP_20191116_F (TP28) is solved successfully.
+Objective function value: -15792.8
+Violations cost         : 0.0
+The case: FP_20191116_F (TP29) is solved successfully.
+Objective function value: -12148.8
+Violations cost         : 0.0
+The case: FP_20191116_F (TP30) is solved successfully.
+Objective function value: -11415.1
+Violations cost         : 0.0
+The case: FP_20191116_F (TP31) is solved successfully.
+Objective function value: -12690.2
+Violations cost         : 0.0
+The case: FP_20191116_F (TP32) is solved successfully.
+Objective function value: -13070.0
+Violations cost         : 0.0
+The case: FP_20191116_F (TP33) is solved successfully.
+Objective function value: -11017.4
+Violations cost         : 0.0
+The case: FP_20191116_F (TP34) is solved successfully.
+Objective function value: -13374.4
+Violations cost         : 0.0
+The case: FP_20191116_F (TP35) is solved successfully.
+Objective function value: -12168.9
+Violations cost         : 0.0
+The case: FP_20191116_F (TP36) is solved successfully.
+Objective function value: -12973.2
+Violations cost         : 0.0
+The case: FP_20191116_F (TP37) is solved successfully.
+Objective function value: -9913.6
+Violations cost         : 0.0
+The case: FP_20191116_F (TP38) is solved successfully.
+Objective function value: -11751.8
+Violations cost         : 0.0
+The case: FP_20191116_F (TP39) is solved successfully.
+Objective function value: -9566.8
+Violations cost         : 0.0
+The case: FP_20191116_F (TP40) is solved successfully.
+Objective function value: -9331.0
+Violations cost         : 0.0
+The case: FP_20191116_F (TP41) is solved successfully.
+Objective function value: -10099.7
+Violations cost         : 0.0
+The case: FP_20191116_F (TP42) is solved successfully.
+Objective function value: -13796.2
+Violations cost         : 0.0
+The case: FP_20191116_F (TP43) is solved successfully.
+Objective function value: -12229.1
+Violations cost         : 0.0
+The case: FP_20191116_F (TP44) is solved successfully.
+Objective function value: -9064.7
+Violations cost         : 0.0
+The case: FP_20191116_F (TP45) is solved successfully.
+Objective function value: -8606.3
+Violations cost         : 0.0
+The case: FP_20191116_F (TP46) is solved successfully.
+Objective function value: -8177.9
+Violations cost         : 0.0
+The case: FP_20191116_F (TP47) is solved successfully.
+Objective function value: -7926.1
+Violations cost         : 0.0
+The case: FP_20191116_F (TP48) is solved successfully.
+Objective function value: -6568.7
+Violations cost         : 0.0
+Case: FP_20191116_F is complete in        23.22(secs)
+Case: FP_20191116_F is finished in       113.65(secs)
+
+Case "FP_20191117_F" started at: 07/13/20 13:35:01
+Vectorisation is switched ON
+The case: FP_20191117_F (TP1) is solved successfully.
+Objective function value: -6360.5
+Violations cost         : 0.0
+The case: FP_20191117_F (TP2) is solved successfully.
+Objective function value: -5274.1
+Violations cost         : 0.0
+The case: FP_20191117_F (TP3) is solved successfully.
+Objective function value: -5241.4
+Violations cost         : 0.0
+The case: FP_20191117_F (TP4) is solved successfully.
+Objective function value: -5355.0
+Violations cost         : 0.0
+The case: FP_20191117_F (TP5) is solved successfully.
+Objective function value: -5343.2
+Violations cost         : 0.0
+The case: FP_20191117_F (TP6) is solved successfully.
+Objective function value: -5232.1
+Violations cost         : 0.0
+The case: FP_20191117_F (TP7) is solved successfully.
+Objective function value: -5093.3
+Violations cost         : 0.0
+The case: FP_20191117_F (TP8) is solved successfully.
+Objective function value: -4982.7
+Violations cost         : 0.0
+The case: FP_20191117_F (TP9) is solved successfully.
+Objective function value: -5086.1
+Violations cost         : 0.0
+The case: FP_20191117_F (TP10) is solved successfully.
+Objective function value: -5221.9
+Violations cost         : 0.0
+The case: FP_20191117_F (TP11) is solved successfully.
+Objective function value: -6006.2
+Violations cost         : 0.0
+The case: FP_20191117_F (TP12) is solved successfully.
+Objective function value: -7182.2
+Violations cost         : 0.0
+The case: FP_20191117_F (TP13) is solved successfully.
+Objective function value: -8036.3
+Violations cost         : 0.0
+The case: FP_20191117_F (TP14) is solved successfully.
+Objective function value: -9492.4
+Violations cost         : 0.0
+The case: FP_20191117_F (TP15) is solved successfully.
+Objective function value: -8440.6
+Violations cost         : 0.0
+The case: FP_20191117_F (TP16) is solved successfully.
+Objective function value: -9215.2
+Violations cost         : 0.0
+The case: FP_20191117_F (TP17) is solved successfully.
+Objective function value: -9774.3
+Violations cost         : 0.0
+The case: FP_20191117_F (TP18) is solved successfully.
+Objective function value: -9620.0
+Violations cost         : 0.0
+The case: FP_20191117_F (TP19) is solved successfully.
+Objective function value: -12277.9
+Violations cost         : 0.0
+The case: FP_20191117_F (TP20) is solved successfully.
+Objective function value: -12674.3
+Violations cost         : 0.0
+The case: FP_20191117_F (TP21) is solved successfully.
+Objective function value: -14476.1
+Violations cost         : 0.0
+The case: FP_20191117_F (TP22) is solved successfully.
+Objective function value: -12375.7
+Violations cost         : 0.0
+The case: FP_20191117_F (TP23) is solved successfully.
+Objective function value: -13416.1
+Violations cost         : 0.0
+The case: FP_20191117_F (TP24) is solved successfully.
+Objective function value: -13080.4
+Violations cost         : 0.0
+The case: FP_20191117_F (TP25) is solved successfully.
+Objective function value: -13269.3
+Violations cost         : 0.0
+The case: FP_20191117_F (TP26) is solved successfully.
+Objective function value: -12672.9
+Violations cost         : 0.0
+The case: FP_20191117_F (TP27) is solved successfully.
+Objective function value: -11497.6
+Violations cost         : 0.0
+The case: FP_20191117_F (TP28) is solved successfully.
+Objective function value: -10826.5
+Violations cost         : 0.0
+The case: FP_20191117_F (TP29) is solved successfully.
+Objective function value: -14701.7
+Violations cost         : 0.0
+The case: FP_20191117_F (TP30) is solved successfully.
+Objective function value: -19682.5
+Violations cost         : 0.0
+The case: FP_20191117_F (TP31) is solved successfully.
+Objective function value: -26166.4
+Violations cost         : 0.0
+The case: FP_20191117_F (TP32) is solved successfully.
+Objective function value: -30379.7
+Violations cost         : 0.0
+The case: FP_20191117_F (TP33) is solved successfully.
+Objective function value: -36081.9
+Violations cost         : 0.0
+The case: FP_20191117_F (TP34) is solved successfully.
+Objective function value: -37965.7
+Violations cost         : 0.0
+The case: FP_20191117_F (TP35) is solved successfully.
+Objective function value: -40162.4
+Violations cost         : 0.0
+The case: FP_20191117_F (TP36) is solved successfully.
+Objective function value: -37035.8
+Violations cost         : 0.0
+The case: FP_20191117_F (TP37) is solved successfully.
+Objective function value: -28779.8
+Violations cost         : 0.0
+The case: FP_20191117_F (TP38) is solved successfully.
+Objective function value: -24127.5
+Violations cost         : 0.0
+The case: FP_20191117_F (TP39) is solved successfully.
+Objective function value: -16035.9
+Violations cost         : 0.0
+The case: FP_20191117_F (TP40) is solved successfully.
+Objective function value: -16934.3
+Violations cost         : 0.0
+The case: FP_20191117_F (TP41) is solved successfully.
+Objective function value: -18908.5
+Violations cost         : 0.0
+The case: FP_20191117_F (TP42) is solved successfully.
+Objective function value: -16765.4
+Violations cost         : 0.0
+The case: FP_20191117_F (TP43) is solved successfully.
+Objective function value: -14654.5
+Violations cost         : 0.0
+The case: FP_20191117_F (TP44) is solved successfully.
+Objective function value: -14064.6
+Violations cost         : 0.0
+The case: FP_20191117_F (TP45) is solved successfully.
+Objective function value: -9388.2
+Violations cost         : 0.0
+The case: FP_20191117_F (TP46) is solved successfully.
+Objective function value: -8072.4
+Violations cost         : 0.0
+The case: FP_20191117_F (TP47) is solved successfully.
+Objective function value: -7740.6
+Violations cost         : 0.0
+The case: FP_20191117_F (TP48) is solved successfully.
+Objective function value: -7818.8
+Violations cost         : 0.0
+Case: FP_20191117_F is complete in        23.05(secs)
+Case: FP_20191117_F is finished in       110.01(secs)
+
+Case "FP_20191118_F" started at: 07/13/20 13:36:51
+Vectorisation is switched ON
+The case: FP_20191118_F (TP1) is solved successfully.
+Objective function value: -7645.2
+Violations cost         : 0.0
+The case: FP_20191118_F (TP2) is solved successfully.
+Objective function value: -6817.9
+Violations cost         : 0.0
+The case: FP_20191118_F (TP3) is solved successfully.
+Objective function value: -6648.2
+Violations cost         : 0.0
+The case: FP_20191118_F (TP4) is solved successfully.
+Objective function value: -6341.2
+Violations cost         : 0.0
+The case: FP_20191118_F (TP5) is solved successfully.
+Objective function value: -6118.0
+Violations cost         : 0.0
+The case: FP_20191118_F (TP6) is solved successfully.
+Objective function value: -6026.2
+Violations cost         : 0.0
+The case: FP_20191118_F (TP7) is solved successfully.
+Objective function value: -6066.9
+Violations cost         : 0.0
+The case: FP_20191118_F (TP8) is solved successfully.
+Objective function value: -6130.1
+Violations cost         : 0.0
+The case: FP_20191118_F (TP9) is solved successfully.
+Objective function value: -6188.0
+Violations cost         : 0.0
+The case: FP_20191118_F (TP10) is solved successfully.
+Objective function value: -6748.0
+Violations cost         : 0.0
+The case: FP_20191118_F (TP11) is solved successfully.
+Objective function value: -7817.2
+Violations cost         : 0.0
+The case: FP_20191118_F (TP12) is solved successfully.
+Objective function value: -8416.0
+Violations cost         : 0.0
+The case: FP_20191118_F (TP13) is solved successfully.
+Objective function value: -9072.7
+Violations cost         : 0.0
+The case: FP_20191118_F (TP14) is solved successfully.
+Objective function value: -19797.0
+Violations cost         : 0.0
+The case: FP_20191118_F (TP15) is solved successfully.
+Objective function value: -19975.6
+Violations cost         : 0.0
+The case: FP_20191118_F (TP16) is solved successfully.
+Objective function value: -21089.0
+Violations cost         : 0.0
+The case: FP_20191118_F (TP17) is solved successfully.
+Objective function value: -18631.3
+Violations cost         : 0.0
+The case: FP_20191118_F (TP18) is solved successfully.
+Objective function value: -17722.4
+Violations cost         : 0.0
+The case: FP_20191118_F (TP19) is solved successfully.
+Objective function value: -16471.8
+Violations cost         : 0.0
+The case: FP_20191118_F (TP20) is solved successfully.
+Objective function value: -19269.1
+Violations cost         : 0.0
+The case: FP_20191118_F (TP21) is solved successfully.
+Objective function value: -18702.2
+Violations cost         : 0.0
+The case: FP_20191118_F (TP22) is solved successfully.
+Objective function value: -26017.7
+Violations cost         : 0.0
+The case: FP_20191118_F (TP23) is solved successfully.
+Objective function value: -36791.0
+Violations cost         : 0.0
+The case: FP_20191118_F (TP24) is solved successfully.
+Objective function value: -44941.1
+Violations cost         : 0.0
+The case: FP_20191118_F (TP25) is solved successfully.
+Objective function value: -216743.1
+Violations cost         : 85000.0
+The case: FP_20191118_F (TP26) is solved successfully.
+Objective function value: -101538.4
+Violations cost         : 85000.0
+The case: FP_20191118_F (TP27) is solved successfully.
+Objective function value: -15618.9
+Violations cost         : 0.0
+The case: FP_20191118_F (TP28) is solved successfully.
+Objective function value: -21625.5
+Violations cost         : 0.0
+The case: FP_20191118_F (TP29) is solved successfully.
+Objective function value: -28321.9
+Violations cost         : 0.0
+The case: FP_20191118_F (TP30) is solved successfully.
+Objective function value: -25483.1
+Violations cost         : 0.0
+The case: FP_20191118_F (TP31) is solved successfully.
+Objective function value: -23914.9
+Violations cost         : 0.0
+The case: FP_20191118_F (TP32) is solved successfully.
+Objective function value: -28806.7
+Violations cost         : 0.0
+The case: FP_20191118_F (TP33) is solved successfully.
+Objective function value: -30826.7
+Violations cost         : 0.0
+The case: FP_20191118_F (TP34) is solved successfully.
+Objective function value: -40041.7
+Violations cost         : 0.0
+The case: FP_20191118_F (TP35) is solved successfully.
+Objective function value: -36655.1
+Violations cost         : 0.0
+The case: FP_20191118_F (TP36) is solved successfully.
+Objective function value: -39123.2
+Violations cost         : 0.0
+The case: FP_20191118_F (TP37) is solved successfully.
+Objective function value: -26093.3
+Violations cost         : 0.0
+The case: FP_20191118_F (TP38) is solved successfully.
+Objective function value: -21451.4
+Violations cost         : 0.0
+The case: FP_20191118_F (TP39) is solved successfully.
+Objective function value: -22138.5
+Violations cost         : 0.0
+The case: FP_20191118_F (TP40) is solved successfully.
+Objective function value: -26311.3
+Violations cost         : 0.0
+The case: FP_20191118_F (TP41) is solved successfully.
+Objective function value: -29080.4
+Violations cost         : 0.0
+The case: FP_20191118_F (TP42) is solved successfully.
+Objective function value: -39751.9
+Violations cost         : 0.0
+The case: FP_20191118_F (TP43) is solved successfully.
+Objective function value: -35059.9
+Violations cost         : 0.0
+The case: FP_20191118_F (TP44) is solved successfully.
+Objective function value: -15877.8
+Violations cost         : 0.0
+The case: FP_20191118_F (TP45) is solved successfully.
+Objective function value: -11117.7
+Violations cost         : 0.0
+The case: FP_20191118_F (TP46) is solved successfully.
+Objective function value: -9375.8
+Violations cost         : 0.0
+The case: FP_20191118_F (TP47) is solved successfully.
+Objective function value: -9751.5
+Violations cost         : 0.0
+The case: FP_20191118_F (TP48) is solved successfully.
+Objective function value: -10089.4
+Violations cost         : 0.0
+Case: FP_20191118_F is complete in        24.02(secs)
+Case: FP_20191118_F is finished in       108.37(secs)
+
+Case "FP_20191119_F" started at: 07/13/20 13:38:40
+Vectorisation is switched ON
+The case: FP_20191119_F (TP1) is solved successfully.
+Objective function value: -7878.2
+Violations cost         : 0.0
+The case: FP_20191119_F (TP2) is solved successfully.
+Objective function value: -7244.4
+Violations cost         : 0.0
+The case: FP_20191119_F (TP3) is solved successfully.
+Objective function value: -5534.4
+Violations cost         : 0.0
+The case: FP_20191119_F (TP4) is solved successfully.
+Objective function value: -5474.8
+Violations cost         : 0.0
+The case: FP_20191119_F (TP5) is solved successfully.
+Objective function value: -5699.6
+Violations cost         : 0.0
+The case: FP_20191119_F (TP6) is solved successfully.
+Objective function value: -5320.9
+Violations cost         : 0.0
+The case: FP_20191119_F (TP7) is solved successfully.
+Objective function value: -5044.3
+Violations cost         : 0.0
+The case: FP_20191119_F (TP8) is solved successfully.
+Objective function value: -5104.1
+Violations cost         : 0.0
+The case: FP_20191119_F (TP9) is solved successfully.
+Objective function value: -5382.3
+Violations cost         : 0.0
+The case: FP_20191119_F (TP10) is solved successfully.
+Objective function value: -5316.3
+Violations cost         : 0.0
+The case: FP_20191119_F (TP11) is solved successfully.
+Objective function value: -6765.4
+Violations cost         : 0.0
+The case: FP_20191119_F (TP12) is solved successfully.
+Objective function value: -8165.4
+Violations cost         : 0.0
+The case: FP_20191119_F (TP13) is solved successfully.
+Objective function value: -13676.4
+Violations cost         : 0.0
+The case: FP_20191119_F (TP14) is solved successfully.
+Objective function value: -17553.6
+Violations cost         : 0.0
+The case: FP_20191119_F (TP15) is solved successfully.
+Objective function value: -23086.6
+Violations cost         : 0.0
+The case: FP_20191119_F (TP16) is solved successfully.
+Objective function value: -30113.2
+Violations cost         : 0.0
+The case: FP_20191119_F (TP17) is solved successfully.
+Objective function value: -30971.5
+Violations cost         : 0.0
+The case: FP_20191119_F (TP18) is solved successfully.
+Objective function value: -26425.1
+Violations cost         : 0.0
+The case: FP_20191119_F (TP19) is solved successfully.
+Objective function value: -20933.0
+Violations cost         : 0.0
+The case: FP_20191119_F (TP20) is solved successfully.
+Objective function value: -20879.4
+Violations cost         : 0.0
+The case: FP_20191119_F (TP21) is solved successfully.
+Objective function value: -15697.4
+Violations cost         : 0.0
+The case: FP_20191119_F (TP22) is solved successfully.
+Objective function value: -13739.1
+Violations cost         : 0.0
+The case: FP_20191119_F (TP23) is solved successfully.
+Objective function value: -12475.6
+Violations cost         : 0.0
+The case: FP_20191119_F (TP24) is solved successfully.
+Objective function value: -12669.6
+Violations cost         : 0.0
+The case: FP_20191119_F (TP25) is solved successfully.
+Objective function value: -16578.0
+Violations cost         : 0.0
+The case: FP_20191119_F (TP26) is solved successfully.
+Objective function value: -20314.9
+Violations cost         : 0.0
+The case: FP_20191119_F (TP27) is solved successfully.
+Objective function value: -18745.9
+Violations cost         : 0.0
+The case: FP_20191119_F (TP28) is solved successfully.
+Objective function value: -20358.9
+Violations cost         : 0.0
+The case: FP_20191119_F (TP29) is solved successfully.
+Objective function value: -21269.6
+Violations cost         : 0.0
+The case: FP_20191119_F (TP30) is solved successfully.
+Objective function value: -20231.3
+Violations cost         : 0.0
+The case: FP_20191119_F (TP31) is solved successfully.
+Objective function value: -19169.3
+Violations cost         : 0.0
+The case: FP_20191119_F (TP32) is solved successfully.
+Objective function value: -19401.9
+Violations cost         : 0.0
+The case: FP_20191119_F (TP33) is solved successfully.
+Objective function value: -14670.2
+Violations cost         : 0.0
+The case: FP_20191119_F (TP34) is solved successfully.
+Objective function value: -17693.2
+Violations cost         : 0.0
+The case: FP_20191119_F (TP35) is solved successfully.
+Objective function value: -17629.2
+Violations cost         : 0.0
+The case: FP_20191119_F (TP36) is solved successfully.
+Objective function value: -21545.6
+Violations cost         : 0.0
+The case: FP_20191119_F (TP37) is solved successfully.
+Objective function value: -18841.4
+Violations cost         : 0.0
+The case: FP_20191119_F (TP38) is solved successfully.
+Objective function value: -20755.0
+Violations cost         : 0.0
+The case: FP_20191119_F (TP39) is solved successfully.
+Objective function value: -16293.6
+Violations cost         : 0.0
+The case: FP_20191119_F (TP40) is solved successfully.
+Objective function value: -13024.2
+Violations cost         : 0.0
+The case: FP_20191119_F (TP41) is solved successfully.
+Objective function value: -14556.9
+Violations cost         : 0.0
+The case: FP_20191119_F (TP42) is solved successfully.
+Objective function value: -16665.7
+Violations cost         : 0.0
+The case: FP_20191119_F (TP43) is solved successfully.
+Objective function value: -15587.3
+Violations cost         : 0.0
+The case: FP_20191119_F (TP44) is solved successfully.
+Objective function value: -12226.1
+Violations cost         : 0.0
+The case: FP_20191119_F (TP45) is solved successfully.
+Objective function value: -13300.9
+Violations cost         : 0.0
+The case: FP_20191119_F (TP46) is solved successfully.
+Objective function value: -9497.5
+Violations cost         : 0.0
+The case: FP_20191119_F (TP47) is solved successfully.
+Objective function value: -8873.7
+Violations cost         : 0.0
+The case: FP_20191119_F (TP48) is solved successfully.
+Objective function value: -7967.2
+Violations cost         : 0.0
+Case: FP_20191119_F is complete in        23.16(secs)
+Case: FP_20191119_F is finished in       109.45(secs)
+
+Case "FP_20191120_F" started at: 07/13/20 13:40:30
+Vectorisation is switched ON
+The case: FP_20191120_F (TP1) is solved successfully.
+Objective function value: -7093.9
+Violations cost         : 0.0
+The case: FP_20191120_F (TP2) is solved successfully.
+Objective function value: -6199.1
+Violations cost         : 0.0
+The case: FP_20191120_F (TP3) is solved successfully.
+Objective function value: -6111.0
+Violations cost         : 0.0
+The case: FP_20191120_F (TP4) is solved successfully.
+Objective function value: -6160.3
+Violations cost         : 0.0
+The case: FP_20191120_F (TP5) is solved successfully.
+Objective function value: -7582.1
+Violations cost         : 0.0
+The case: FP_20191120_F (TP6) is solved successfully.
+Objective function value: -7051.5
+Violations cost         : 0.0
+The case: FP_20191120_F (TP7) is solved successfully.
+Objective function value: -6651.2
+Violations cost         : 0.0
+The case: FP_20191120_F (TP8) is solved successfully.
+Objective function value: -5702.7
+Violations cost         : 0.0
+The case: FP_20191120_F (TP9) is solved successfully.
+Objective function value: -5665.1
+Violations cost         : 0.0
+The case: FP_20191120_F (TP10) is solved successfully.
+Objective function value: -5477.8
+Violations cost         : 0.0
+The case: FP_20191120_F (TP11) is solved successfully.
+Objective function value: -6481.0
+Violations cost         : 0.0
+The case: FP_20191120_F (TP12) is solved successfully.
+Objective function value: -11442.3
+Violations cost         : 0.0
+The case: FP_20191120_F (TP13) is solved successfully.
+Objective function value: -12173.5
+Violations cost         : 0.0
+The case: FP_20191120_F (TP14) is solved successfully.
+Objective function value: -17658.2
+Violations cost         : 0.0
+The case: FP_20191120_F (TP15) is solved successfully.
+Objective function value: -19573.4
+Violations cost         : 0.0
+The case: FP_20191120_F (TP16) is solved successfully.
+Objective function value: -30608.6
+Violations cost         : 0.0
+The case: FP_20191120_F (TP17) is solved successfully.
+Objective function value: -33349.8
+Violations cost         : 0.0
+The case: FP_20191120_F (TP18) is solved successfully.
+Objective function value: -36394.5
+Violations cost         : 0.0
+The case: FP_20191120_F (TP19) is solved successfully.
+Objective function value: -39683.3
+Violations cost         : 0.0
+The case: FP_20191120_F (TP20) is solved successfully.
+Objective function value: -32087.7
+Violations cost         : 0.0
+The case: FP_20191120_F (TP21) is solved successfully.
+Objective function value: -28776.2
+Violations cost         : 0.0
+The case: FP_20191120_F (TP22) is solved successfully.
+Objective function value: -27374.5
+Violations cost         : 0.0
+The case: FP_20191120_F (TP23) is solved successfully.
+Objective function value: -25261.9
+Violations cost         : 0.0
+The case: FP_20191120_F (TP24) is solved successfully.
+Objective function value: -29999.7
+Violations cost         : 0.0
+The case: FP_20191120_F (TP25) is solved successfully.
+Objective function value: -26494.0
+Violations cost         : 0.0
+The case: FP_20191120_F (TP26) is solved successfully.
+Objective function value: -20436.2
+Violations cost         : 0.0
+The case: FP_20191120_F (TP27) is solved successfully.
+Objective function value: -19832.8
+Violations cost         : 0.0
+The case: FP_20191120_F (TP28) is solved successfully.
+Objective function value: -18315.4
+Violations cost         : 0.0
+The case: FP_20191120_F (TP29) is solved successfully.
+Objective function value: -16497.4
+Violations cost         : 0.0
+The case: FP_20191120_F (TP30) is solved successfully.
+Objective function value: -12240.5
+Violations cost         : 0.0
+The case: FP_20191120_F (TP31) is solved successfully.
+Objective function value: -13298.6
+Violations cost         : 0.0
+The case: FP_20191120_F (TP32) is solved successfully.
+Objective function value: -17078.7
+Violations cost         : 0.0
+The case: FP_20191120_F (TP33) is solved successfully.
+Objective function value: -18810.5
+Violations cost         : 0.0
+The case: FP_20191120_F (TP34) is solved successfully.
+Objective function value: -19587.3
+Violations cost         : 0.0
+The case: FP_20191120_F (TP35) is solved successfully.
+Objective function value: -20364.0
+Violations cost         : 0.0
+The case: FP_20191120_F (TP36) is solved successfully.
+Objective function value: -24690.4
+Violations cost         : 0.0
+The case: FP_20191120_F (TP37) is solved successfully.
+Objective function value: -20539.8
+Violations cost         : 0.0
+The case: FP_20191120_F (TP38) is solved successfully.
+Objective function value: -16520.2
+Violations cost         : 0.0
+The case: FP_20191120_F (TP39) is solved successfully.
+Objective function value: -13742.7
+Violations cost         : 0.0
+The case: FP_20191120_F (TP40) is solved successfully.
+Objective function value: -12599.9
+Violations cost         : 0.0
+The case: FP_20191120_F (TP41) is solved successfully.
+Objective function value: -14518.1
+Violations cost         : 0.0
+The case: FP_20191120_F (TP42) is solved successfully.
+Objective function value: -24313.9
+Violations cost         : 0.0
+The case: FP_20191120_F (TP43) is solved successfully.
+Objective function value: -18137.6
+Violations cost         : 0.0
+The case: FP_20191120_F (TP44) is solved successfully.
+Objective function value: -15312.9
+Violations cost         : 0.0
+The case: FP_20191120_F (TP45) is solved successfully.
+Objective function value: -11990.4
+Violations cost         : 0.0
+The case: FP_20191120_F (TP46) is solved successfully.
+Objective function value: -9474.7
+Violations cost         : 0.0
+The case: FP_20191120_F (TP47) is solved successfully.
+Objective function value: -11477.5
+Violations cost         : 0.0
+The case: FP_20191120_F (TP48) is solved successfully.
+Objective function value: -14086.5
+Violations cost         : 0.0
+Case: FP_20191120_F is complete in        22.88(secs)
+Case: FP_20191120_F is finished in       109.78(secs)
+
+Case "FP_20191121_F" started at: 07/13/20 13:42:20
+Vectorisation is switched ON
+The case: FP_20191121_F (TP1) is solved successfully.
+Objective function value: -12129.7
+Violations cost         : 0.0
+The case: FP_20191121_F (TP2) is solved successfully.
+Objective function value: -9751.7
+Violations cost         : 0.0
+The case: FP_20191121_F (TP3) is solved successfully.
+Objective function value: -8825.6
+Violations cost         : 0.0
+The case: FP_20191121_F (TP4) is solved successfully.
+Objective function value: -7934.2
+Violations cost         : 0.0
+The case: FP_20191121_F (TP5) is solved successfully.
+Objective function value: -7400.7
+Violations cost         : 0.0
+The case: FP_20191121_F (TP6) is solved successfully.
+Objective function value: -7159.6
+Violations cost         : 0.0
+The case: FP_20191121_F (TP7) is solved successfully.
+Objective function value: -7198.5
+Violations cost         : 0.0
+The case: FP_20191121_F (TP8) is solved successfully.
+Objective function value: -7504.7
+Violations cost         : 0.0
+The case: FP_20191121_F (TP9) is solved successfully.
+Objective function value: -7680.5
+Violations cost         : 0.0
+The case: FP_20191121_F (TP10) is solved successfully.
+Objective function value: -7850.5
+Violations cost         : 0.0
+The case: FP_20191121_F (TP11) is solved successfully.
+Objective function value: -10379.9
+Violations cost         : 0.0
+The case: FP_20191121_F (TP12) is solved successfully.
+Objective function value: -19936.6
+Violations cost         : 0.0
+The case: FP_20191121_F (TP13) is solved successfully.
+Objective function value: -31195.2
+Violations cost         : 0.0
+The case: FP_20191121_F (TP14) is solved successfully.
+Objective function value: -46195.4
+Violations cost         : 0.0
+The case: FP_20191121_F (TP15) is solved successfully.
+Objective function value: -59490.0
+Violations cost         : 0.0
+The case: FP_20191121_F (TP16) is solved successfully.
+Objective function value: -58134.7
+Violations cost         : 0.0
+The case: FP_20191121_F (TP17) is solved successfully.
+Objective function value: -64791.1
+Violations cost         : 0.0
+The case: FP_20191121_F (TP18) is solved successfully.
+Objective function value: -45239.0
+Violations cost         : 0.0
+The case: FP_20191121_F (TP19) is solved successfully.
+Objective function value: -44915.7
+Violations cost         : 0.0
+The case: FP_20191121_F (TP20) is solved successfully.
+Objective function value: -41014.4
+Violations cost         : 0.0
+The case: FP_20191121_F (TP21) is solved successfully.
+Objective function value: -39091.1
+Violations cost         : 0.0
+The case: FP_20191121_F (TP22) is solved successfully.
+Objective function value: -36384.8
+Violations cost         : 0.0
+The case: FP_20191121_F (TP23) is solved successfully.
+Objective function value: -44578.9
+Violations cost         : 0.0
+The case: FP_20191121_F (TP24) is solved successfully.
+Objective function value: -34067.2
+Violations cost         : 0.0
+The case: FP_20191121_F (TP25) is solved successfully.
+Objective function value: -24488.1
+Violations cost         : 0.0
+The case: FP_20191121_F (TP26) is solved successfully.
+Objective function value: -24533.9
+Violations cost         : 0.0
+The case: FP_20191121_F (TP27) is solved successfully.
+Objective function value: -20821.0
+Violations cost         : 0.0
+The case: FP_20191121_F (TP28) is solved successfully.
+Objective function value: -17106.7
+Violations cost         : 0.0
+The case: FP_20191121_F (TP29) is solved successfully.
+Objective function value: -22525.0
+Violations cost         : 0.0
+The case: FP_20191121_F (TP30) is solved successfully.
+Objective function value: -33738.0
+Violations cost         : 0.0
+The case: FP_20191121_F (TP31) is solved successfully.
+Objective function value: -32334.0
+Violations cost         : 0.0
+The case: FP_20191121_F (TP32) is solved successfully.
+Objective function value: -40043.5
+Violations cost         : 0.0
+The case: FP_20191121_F (TP33) is solved successfully.
+Objective function value: -24645.2
+Violations cost         : 0.0
+The case: FP_20191121_F (TP34) is solved successfully.
+Objective function value: -30405.9
+Violations cost         : 0.0
+The case: FP_20191121_F (TP35) is solved successfully.
+Objective function value: -23520.0
+Violations cost         : 0.0
+The case: FP_20191121_F (TP36) is solved successfully.
+Objective function value: -23282.6
+Violations cost         : 0.0
+The case: FP_20191121_F (TP37) is solved successfully.
+Objective function value: -20888.9
+Violations cost         : 0.0
+The case: FP_20191121_F (TP38) is solved successfully.
+Objective function value: -19989.5
+Violations cost         : 0.0
+The case: FP_20191121_F (TP39) is solved successfully.
+Objective function value: -15932.4
+Violations cost         : 0.0
+The case: FP_20191121_F (TP40) is solved successfully.
+Objective function value: -17210.0
+Violations cost         : 0.0
+The case: FP_20191121_F (TP41) is solved successfully.
+Objective function value: -22853.5
+Violations cost         : 0.0
+The case: FP_20191121_F (TP42) is solved successfully.
+Objective function value: -27631.5
+Violations cost         : 0.0
+The case: FP_20191121_F (TP43) is solved successfully.
+Objective function value: -31304.2
+Violations cost         : 0.0
+The case: FP_20191121_F (TP44) is solved successfully.
+Objective function value: -25307.3
+Violations cost         : 0.0
+The case: FP_20191121_F (TP45) is solved successfully.
+Objective function value: -28959.5
+Violations cost         : 0.0
+The case: FP_20191121_F (TP46) is solved successfully.
+Objective function value: -20193.3
+Violations cost         : 0.0
+The case: FP_20191121_F (TP47) is solved successfully.
+Objective function value: -8557.3
+Violations cost         : 0.0
+The case: FP_20191121_F (TP48) is solved successfully.
+Objective function value: -10065.4
+Violations cost         : 0.0
+Case: FP_20191121_F is complete in        22.99(secs)
+Case: FP_20191121_F is finished in       107.69(secs)
+
+Case "FP_20191122_F" started at: 07/13/20 13:44:08
+Vectorisation is switched ON
+The case: FP_20191122_F (TP1) is solved successfully.
+Objective function value: -11703.1
+Violations cost         : 0.0
+The case: FP_20191122_F (TP2) is solved successfully.
+Objective function value: -7866.8
+Violations cost         : 0.0
+The case: FP_20191122_F (TP3) is solved successfully.
+Objective function value: -6815.4
+Violations cost         : 0.0
+The case: FP_20191122_F (TP4) is solved successfully.
+Objective function value: -6777.3
+Violations cost         : 0.0
+The case: FP_20191122_F (TP5) is solved successfully.
+Objective function value: -6251.7
+Violations cost         : 0.0
+The case: FP_20191122_F (TP6) is solved successfully.
+Objective function value: -5851.1
+Violations cost         : 0.0
+The case: FP_20191122_F (TP7) is solved successfully.
+Objective function value: -5583.2
+Violations cost         : 0.0
+The case: FP_20191122_F (TP8) is solved successfully.
+Objective function value: -5330.1
+Violations cost         : 0.0
+The case: FP_20191122_F (TP9) is solved successfully.
+Objective function value: -6377.4
+Violations cost         : 0.0
+The case: FP_20191122_F (TP10) is solved successfully.
+Objective function value: -6065.4
+Violations cost         : 0.0
+The case: FP_20191122_F (TP11) is solved successfully.
+Objective function value: -6059.0
+Violations cost         : 0.0
+The case: FP_20191122_F (TP12) is solved successfully.
+Objective function value: -7279.9
+Violations cost         : 0.0
+The case: FP_20191122_F (TP13) is solved successfully.
+Objective function value: -8456.8
+Violations cost         : 0.0
+The case: FP_20191122_F (TP14) is solved successfully.
+Objective function value: -11114.1
+Violations cost         : 0.0
+The case: FP_20191122_F (TP15) is solved successfully.
+Objective function value: -19512.7
+Violations cost         : 0.0
+The case: FP_20191122_F (TP16) is solved successfully.
+Objective function value: -25549.5
+Violations cost         : 0.0
+The case: FP_20191122_F (TP17) is solved successfully.
+Objective function value: -25523.8
+Violations cost         : 0.0
+The case: FP_20191122_F (TP18) is solved successfully.
+Objective function value: -29200.7
+Violations cost         : 0.0
+The case: FP_20191122_F (TP19) is solved successfully.
+Objective function value: -25389.0
+Violations cost         : 0.0
+The case: FP_20191122_F (TP20) is solved successfully.
+Objective function value: -20059.1
+Violations cost         : 0.0
+The case: FP_20191122_F (TP21) is solved successfully.
+Objective function value: -16814.0
+Violations cost         : 0.0
+The case: FP_20191122_F (TP22) is solved successfully.
+Objective function value: -14473.7
+Violations cost         : 0.0
+The case: FP_20191122_F (TP23) is solved successfully.
+Objective function value: -15086.1
+Violations cost         : 0.0
+The case: FP_20191122_F (TP24) is solved successfully.
+Objective function value: -16605.3
+Violations cost         : 0.0
+The case: FP_20191122_F (TP25) is solved successfully.
+Objective function value: -14892.7
+Violations cost         : 0.0
+The case: FP_20191122_F (TP26) is solved successfully.
+Objective function value: -21013.8
+Violations cost         : 0.0
+The case: FP_20191122_F (TP27) is solved successfully.
+Objective function value: -20213.6
+Violations cost         : 0.0
+The case: FP_20191122_F (TP28) is solved successfully.
+Objective function value: -19012.5
+Violations cost         : 0.0
+The case: FP_20191122_F (TP29) is solved successfully.
+Objective function value: -20054.4
+Violations cost         : 0.0
+The case: FP_20191122_F (TP30) is solved successfully.
+Objective function value: -17715.7
+Violations cost         : 0.0
+The case: FP_20191122_F (TP31) is solved successfully.
+Objective function value: -14706.9
+Violations cost         : 0.0
+The case: FP_20191122_F (TP32) is solved successfully.
+Objective function value: -16216.4
+Violations cost         : 0.0
+The case: FP_20191122_F (TP33) is solved successfully.
+Objective function value: -14059.0
+Violations cost         : 0.0
+The case: FP_20191122_F (TP34) is solved successfully.
+Objective function value: -15924.7
+Violations cost         : 0.0
+The case: FP_20191122_F (TP35) is solved successfully.
+Objective function value: -12374.3
+Violations cost         : 0.0
+The case: FP_20191122_F (TP36) is solved successfully.
+Objective function value: -11006.4
+Violations cost         : 0.0
+The case: FP_20191122_F (TP37) is solved successfully.
+Objective function value: -9384.6
+Violations cost         : 0.0
+The case: FP_20191122_F (TP38) is solved successfully.
+Objective function value: -9119.6
+Violations cost         : 0.0
+The case: FP_20191122_F (TP39) is solved successfully.
+Objective function value: -9004.4
+Violations cost         : 0.0
+The case: FP_20191122_F (TP40) is solved successfully.
+Objective function value: -8754.0
+Violations cost         : 0.0
+The case: FP_20191122_F (TP41) is solved successfully.
+Objective function value: -9231.9
+Violations cost         : 0.0
+The case: FP_20191122_F (TP42) is solved successfully.
+Objective function value: -10794.4
+Violations cost         : 0.0
+The case: FP_20191122_F (TP43) is solved successfully.
+Objective function value: -9696.1
+Violations cost         : 0.0
+The case: FP_20191122_F (TP44) is solved successfully.
+Objective function value: -7767.4
+Violations cost         : 0.0
+The case: FP_20191122_F (TP45) is solved successfully.
+Objective function value: -7899.2
+Violations cost         : 0.0
+The case: FP_20191122_F (TP46) is solved successfully.
+Objective function value: -7482.3
+Violations cost         : 0.0
+The case: FP_20191122_F (TP47) is solved successfully.
+Objective function value: -6527.7
+Violations cost         : 0.0
+The case: FP_20191122_F (TP48) is solved successfully.
+Objective function value: -7057.1
+Violations cost         : 0.0
+Case: FP_20191122_F is complete in        23.03(secs)
+Case: FP_20191122_F is finished in       109.49(secs)
+
+Case "FP_20191123_F" started at: 07/13/20 13:45:58
+Vectorisation is switched ON
+The case: FP_20191123_F (TP1) is solved successfully.
+Objective function value: -5645.8
+Violations cost         : 0.0
+The case: FP_20191123_F (TP2) is solved successfully.
+Objective function value: -5238.6
+Violations cost         : 0.0
+The case: FP_20191123_F (TP3) is solved successfully.
+Objective function value: -5175.2
+Violations cost         : 0.0
+The case: FP_20191123_F (TP4) is solved successfully.
+Objective function value: -5154.9
+Violations cost         : 0.0
+The case: FP_20191123_F (TP5) is solved successfully.
+Objective function value: -5478.7
+Violations cost         : 0.0
+The case: FP_20191123_F (TP6) is solved successfully.
+Objective function value: -5119.6
+Violations cost         : 0.0
+The case: FP_20191123_F (TP7) is solved successfully.
+Objective function value: -4739.4
+Violations cost         : 0.0
+The case: FP_20191123_F (TP8) is solved successfully.
+Objective function value: -4603.0
+Violations cost         : 0.0
+The case: FP_20191123_F (TP9) is solved successfully.
+Objective function value: -4663.1
+Violations cost         : 0.0
+The case: FP_20191123_F (TP10) is solved successfully.
+Objective function value: -4827.8
+Violations cost         : 0.0
+The case: FP_20191123_F (TP11) is solved successfully.
+Objective function value: -5193.6
+Violations cost         : 0.0
+The case: FP_20191123_F (TP12) is solved successfully.
+Objective function value: -5778.8
+Violations cost         : 0.0
+The case: FP_20191123_F (TP13) is solved successfully.
+Objective function value: -6348.9
+Violations cost         : 0.0
+The case: FP_20191123_F (TP14) is solved successfully.
+Objective function value: -7590.1
+Violations cost         : 0.0
+The case: FP_20191123_F (TP15) is solved successfully.
+Objective function value: -8482.2
+Violations cost         : 0.0
+The case: FP_20191123_F (TP16) is solved successfully.
+Objective function value: -11135.0
+Violations cost         : 0.0
+The case: FP_20191123_F (TP17) is solved successfully.
+Objective function value: -15019.8
+Violations cost         : 0.0
+The case: FP_20191123_F (TP18) is solved successfully.
+Objective function value: -19479.5
+Violations cost         : 0.0
+The case: FP_20191123_F (TP19) is solved successfully.
+Objective function value: -31169.8
+Violations cost         : 0.0
+The case: FP_20191123_F (TP20) is solved successfully.
+Objective function value: -25756.8
+Violations cost         : 0.0
+The case: FP_20191123_F (TP21) is solved successfully.
+Objective function value: -24419.4
+Violations cost         : 0.0
+The case: FP_20191123_F (TP22) is solved successfully.
+Objective function value: -26030.2
+Violations cost         : 0.0
+The case: FP_20191123_F (TP23) is solved successfully.
+Objective function value: -26013.8
+Violations cost         : 0.0
+The case: FP_20191123_F (TP24) is solved successfully.
+Objective function value: -19454.3
+Violations cost         : 0.0
+The case: FP_20191123_F (TP25) is solved successfully.
+Objective function value: -17923.3
+Violations cost         : 0.0
+The case: FP_20191123_F (TP26) is solved successfully.
+Objective function value: -17785.4
+Violations cost         : 0.0
+The case: FP_20191123_F (TP27) is solved successfully.
+Objective function value: -17410.7
+Violations cost         : 0.0
+The case: FP_20191123_F (TP28) is solved successfully.
+Objective function value: -16685.4
+Violations cost         : 0.0
+The case: FP_20191123_F (TP29) is solved successfully.
+Objective function value: -18432.3
+Violations cost         : 0.0
+The case: FP_20191123_F (TP30) is solved successfully.
+Objective function value: -18954.0
+Violations cost         : 0.0
+The case: FP_20191123_F (TP31) is solved successfully.
+Objective function value: -18492.6
+Violations cost         : 0.0
+The case: FP_20191123_F (TP32) is solved successfully.
+Objective function value: -13999.0
+Violations cost         : 0.0
+The case: FP_20191123_F (TP33) is solved successfully.
+Objective function value: -11586.2
+Violations cost         : 0.0
+The case: FP_20191123_F (TP34) is solved successfully.
+Objective function value: -12326.9
+Violations cost         : 0.0
+The case: FP_20191123_F (TP35) is solved successfully.
+Objective function value: -12767.3
+Violations cost         : 0.0
+The case: FP_20191123_F (TP36) is solved successfully.
+Objective function value: -13730.9
+Violations cost         : 0.0
+The case: FP_20191123_F (TP37) is solved successfully.
+Objective function value: -11796.5
+Violations cost         : 0.0
+The case: FP_20191123_F (TP38) is solved successfully.
+Objective function value: -12989.2
+Violations cost         : 0.0
+The case: FP_20191123_F (TP39) is solved successfully.
+Objective function value: -11816.9
+Violations cost         : 0.0
+The case: FP_20191123_F (TP40) is solved successfully.
+Objective function value: -12663.3
+Violations cost         : 0.0
+The case: FP_20191123_F (TP41) is solved successfully.
+Objective function value: -12789.7
+Violations cost         : 0.0
+The case: FP_20191123_F (TP42) is solved successfully.
+Objective function value: -14898.0
+Violations cost         : 0.0
+The case: FP_20191123_F (TP43) is solved successfully.
+Objective function value: -17976.2
+Violations cost         : 0.0
+The case: FP_20191123_F (TP44) is solved successfully.
+Objective function value: -15208.1
+Violations cost         : 0.0
+The case: FP_20191123_F (TP45) is solved successfully.
+Objective function value: -12464.8
+Violations cost         : 0.0
+The case: FP_20191123_F (TP46) is solved successfully.
+Objective function value: -9975.1
+Violations cost         : 0.0
+The case: FP_20191123_F (TP47) is solved successfully.
+Objective function value: -8887.5
+Violations cost         : 0.0
+The case: FP_20191123_F (TP48) is solved successfully.
+Objective function value: -8510.4
+Violations cost         : 0.0
+Case: FP_20191123_F is complete in        23.55(secs)
+Case: FP_20191123_F is finished in       113.72(secs)
+
+Case "FP_20191124_F" started at: 07/13/20 13:47:53
+Vectorisation is switched ON
+The case: FP_20191124_F (TP1) is solved successfully.
+Objective function value: -7860.2
+Violations cost         : 0.0
+The case: FP_20191124_F (TP2) is solved successfully.
+Objective function value: -8297.3
+Violations cost         : 0.0
+The case: FP_20191124_F (TP3) is solved successfully.
+Objective function value: -8458.8
+Violations cost         : 0.0
+The case: FP_20191124_F (TP4) is solved successfully.
+Objective function value: -7177.3
+Violations cost         : 0.0
+The case: FP_20191124_F (TP5) is solved successfully.
+Objective function value: -7018.7
+Violations cost         : 0.0
+The case: FP_20191124_F (TP6) is solved successfully.
+Objective function value: -5775.9
+Violations cost         : 0.0
+The case: FP_20191124_F (TP7) is solved successfully.
+Objective function value: -5362.3
+Violations cost         : 0.0
+The case: FP_20191124_F (TP8) is solved successfully.
+Objective function value: -5166.6
+Violations cost         : 0.0
+The case: FP_20191124_F (TP9) is solved successfully.
+Objective function value: -5197.2
+Violations cost         : 0.0
+The case: FP_20191124_F (TP10) is solved successfully.
+Objective function value: -5283.9
+Violations cost         : 0.0
+The case: FP_20191124_F (TP11) is solved successfully.
+Objective function value: -5618.0
+Violations cost         : 0.0
+The case: FP_20191124_F (TP12) is solved successfully.
+Objective function value: -5495.1
+Violations cost         : 0.0
+The case: FP_20191124_F (TP13) is solved successfully.
+Objective function value: -6206.1
+Violations cost         : 0.0
+The case: FP_20191124_F (TP14) is solved successfully.
+Objective function value: -6160.1
+Violations cost         : 0.0
+The case: FP_20191124_F (TP15) is solved successfully.
+Objective function value: -6314.1
+Violations cost         : 0.0
+The case: FP_20191124_F (TP16) is solved successfully.
+Objective function value: -7288.9
+Violations cost         : 0.0
+The case: FP_20191124_F (TP17) is solved successfully.
+Objective function value: -7650.3
+Violations cost         : 0.0
+The case: FP_20191124_F (TP18) is solved successfully.
+Objective function value: -8279.8
+Violations cost         : 0.0
+The case: FP_20191124_F (TP19) is solved successfully.
+Objective function value: -8748.2
+Violations cost         : 0.0
+The case: FP_20191124_F (TP20) is solved successfully.
+Objective function value: -9327.1
+Violations cost         : 0.0
+The case: FP_20191124_F (TP21) is solved successfully.
+Objective function value: -11120.0
+Violations cost         : 0.0
+The case: FP_20191124_F (TP22) is solved successfully.
+Objective function value: -9495.7
+Violations cost         : 0.0
+The case: FP_20191124_F (TP23) is solved successfully.
+Objective function value: -8775.9
+Violations cost         : 0.0
+The case: FP_20191124_F (TP24) is solved successfully.
+Objective function value: -8470.5
+Violations cost         : 0.0
+The case: FP_20191124_F (TP25) is solved successfully.
+Objective function value: -8350.8
+Violations cost         : 0.0
+The case: FP_20191124_F (TP26) is solved successfully.
+Objective function value: -8484.2
+Violations cost         : 0.0
+The case: FP_20191124_F (TP27) is solved successfully.
+Objective function value: -7671.9
+Violations cost         : 0.0
+The case: FP_20191124_F (TP28) is solved successfully.
+Objective function value: -8083.9
+Violations cost         : 0.0
+The case: FP_20191124_F (TP29) is solved successfully.
+Objective function value: -8212.6
+Violations cost         : 0.0
+The case: FP_20191124_F (TP30) is solved successfully.
+Objective function value: -8417.2
+Violations cost         : 0.0
+The case: FP_20191124_F (TP31) is solved successfully.
+Objective function value: -11465.8
+Violations cost         : 0.0
+The case: FP_20191124_F (TP32) is solved successfully.
+Objective function value: -11819.2
+Violations cost         : 0.0
+The case: FP_20191124_F (TP33) is solved successfully.
+Objective function value: -11336.1
+Violations cost         : 0.0
+The case: FP_20191124_F (TP34) is solved successfully.
+Objective function value: -13805.9
+Violations cost         : 0.0
+The case: FP_20191124_F (TP35) is solved successfully.
+Objective function value: -14369.1
+Violations cost         : 0.0
+The case: FP_20191124_F (TP36) is solved successfully.
+Objective function value: -18986.5
+Violations cost         : 0.0
+The case: FP_20191124_F (TP37) is solved successfully.
+Objective function value: -15163.5
+Violations cost         : 0.0
+The case: FP_20191124_F (TP38) is solved successfully.
+Objective function value: -19046.4
+Violations cost         : 0.0
+The case: FP_20191124_F (TP39) is solved successfully.
+Objective function value: -15839.3
+Violations cost         : 0.0
+The case: FP_20191124_F (TP40) is solved successfully.
+Objective function value: -16515.4
+Violations cost         : 0.0
+The case: FP_20191124_F (TP41) is solved successfully.
+Objective function value: -15194.9
+Violations cost         : 0.0
+The case: FP_20191124_F (TP42) is solved successfully.
+Objective function value: -23163.0
+Violations cost         : 0.0
+The case: FP_20191124_F (TP43) is solved successfully.
+Objective function value: -27216.5
+Violations cost         : 0.0
+The case: FP_20191124_F (TP44) is solved successfully.
+Objective function value: -17395.4
+Violations cost         : 0.0
+The case: FP_20191124_F (TP45) is solved successfully.
+Objective function value: -9121.1
+Violations cost         : 0.0
+The case: FP_20191124_F (TP46) is solved successfully.
+Objective function value: -8134.7
+Violations cost         : 0.0
+The case: FP_20191124_F (TP47) is solved successfully.
+Objective function value: -7826.8
+Violations cost         : 0.0
+The case: FP_20191124_F (TP48) is solved successfully.
+Objective function value: -7508.0
+Violations cost         : 0.0
+Case: FP_20191124_F is complete in        26.45(secs)
+Case: FP_20191124_F is finished in       118.92(secs)
+
+Case "FP_20191125_F" started at: 07/13/20 13:49:52
+Vectorisation is switched ON
+The case: FP_20191125_F (TP1) is solved successfully.
+Objective function value: -7180.7
+Violations cost         : 0.0
+The case: FP_20191125_F (TP2) is solved successfully.
+Objective function value: -7083.7
+Violations cost         : 0.0
+The case: FP_20191125_F (TP3) is solved successfully.
+Objective function value: -7603.5
+Violations cost         : 0.0
+The case: FP_20191125_F (TP4) is solved successfully.
+Objective function value: -8275.5
+Violations cost         : 0.0
+The case: FP_20191125_F (TP5) is solved successfully.
+Objective function value: -8341.0
+Violations cost         : 0.0
+The case: FP_20191125_F (TP6) is solved successfully.
+Objective function value: -9027.7
+Violations cost         : 0.0
+The case: FP_20191125_F (TP7) is solved successfully.
+Objective function value: -8074.0
+Violations cost         : 0.0
+The case: FP_20191125_F (TP8) is solved successfully.
+Objective function value: -7953.6
+Violations cost         : 0.0
+The case: FP_20191125_F (TP9) is solved successfully.
+Objective function value: -7342.3
+Violations cost         : 0.0
+The case: FP_20191125_F (TP10) is solved successfully.
+Objective function value: -7279.8
+Violations cost         : 0.0
+The case: FP_20191125_F (TP11) is solved successfully.
+Objective function value: -7631.7
+Violations cost         : 0.0
+The case: FP_20191125_F (TP12) is solved successfully.
+Objective function value: -7753.0
+Violations cost         : 0.0
+The case: FP_20191125_F (TP13) is solved successfully.
+Objective function value: -10302.6
+Violations cost         : 0.0
+The case: FP_20191125_F (TP14) is solved successfully.
+Objective function value: -30918.3
+Violations cost         : 0.0
+The case: FP_20191125_F (TP15) is solved successfully.
+Objective function value: -18256.8
+Violations cost         : 0.0
+The case: FP_20191125_F (TP16) is solved successfully.
+Objective function value: -19544.3
+Violations cost         : 0.0
+The case: FP_20191125_F (TP17) is solved successfully.
+Objective function value: -23762.0
+Violations cost         : 0.0
+The case: FP_20191125_F (TP18) is solved successfully.
+Objective function value: -27398.3
+Violations cost         : 0.0
+The case: FP_20191125_F (TP19) is solved successfully.
+Objective function value: -30301.6
+Violations cost         : 0.0
+The case: FP_20191125_F (TP20) is solved successfully.
+Objective function value: -27447.3
+Violations cost         : 0.0
+The case: FP_20191125_F (TP21) is solved successfully.
+Objective function value: -24873.5
+Violations cost         : 0.0
+The case: FP_20191125_F (TP22) is solved successfully.
+Objective function value: -25122.5
+Violations cost         : 0.0
+The case: FP_20191125_F (TP23) is solved successfully.
+Objective function value: -24145.4
+Violations cost         : 0.0
+The case: FP_20191125_F (TP24) is solved successfully.
+Objective function value: -24774.0
+Violations cost         : 0.0
+The case: FP_20191125_F (TP25) is solved successfully.
+Objective function value: -23971.8
+Violations cost         : 0.0
+The case: FP_20191125_F (TP26) is solved successfully.
+Objective function value: -24435.1
+Violations cost         : 0.0
+The case: FP_20191125_F (TP27) is solved successfully.
+Objective function value: -37999.9
+Violations cost         : 0.0
+The case: FP_20191125_F requires a vSPD_BranchFlowMIP resolve for period TP27. Switching Vectorisation OFF.
+The case: FP_20191125_F (TP27) is solved successfully for branch integer.
+Objective function value: -38561.7
+Violations cost         : 0.0
+The case: FP_20191125_F (TP28) is solved successfully.
+Objective function value: -32046.5
+Violations cost         : 0.0
+The case: FP_20191125_F (TP29) is solved successfully.
+Objective function value: -36111.7
+Violations cost         : 0.0
+The case: FP_20191125_F requires a vSPD_BranchFlowMIP resolve for period TP29. Switching Vectorisation OFF.
+The case: FP_20191125_F (TP29) is solved successfully for branch integer.
+Objective function value: -36596.4
+Violations cost         : 0.0
+The case: FP_20191125_F (TP30) is solved successfully.
+Objective function value: -30640.2
+Violations cost         : 0.0
+The case: FP_20191125_F (TP31) is solved successfully.
+Objective function value: -37191.9
+Violations cost         : 0.0
+The case: FP_20191125_F (TP32) is solved successfully.
+Objective function value: -39184.8
+Violations cost         : 0.0
+The case: FP_20191125_F (TP33) is solved successfully.
+Objective function value: -36713.5
+Violations cost         : 0.0
+The case: FP_20191125_F (TP34) is solved successfully.
+Objective function value: -27839.4
+Violations cost         : 0.0
+The case: FP_20191125_F (TP35) is solved successfully.
+Objective function value: -20794.9
+Violations cost         : 0.0
+The case: FP_20191125_F (TP36) is solved successfully.
+Objective function value: -21088.0
+Violations cost         : 0.0
+The case: FP_20191125_F (TP37) is solved successfully.
+Objective function value: -15874.2
+Violations cost         : 0.0
+The case: FP_20191125_F (TP38) is solved successfully.
+Objective function value: -14591.4
+Violations cost         : 0.0
+The case: FP_20191125_F (TP39) is solved successfully.
+Objective function value: -11529.1
+Violations cost         : 0.0
+The case: FP_20191125_F (TP40) is solved successfully.
+Objective function value: -13180.6
+Violations cost         : 0.0
+The case: FP_20191125_F (TP41) is solved successfully.
+Objective function value: -11940.5
+Violations cost         : 0.0
+The case: FP_20191125_F (TP42) is solved successfully.
+Objective function value: -15314.0
+Violations cost         : 0.0
+The case: FP_20191125_F (TP43) is solved successfully.
+Objective function value: -15304.4
+Violations cost         : 0.0
+The case: FP_20191125_F (TP44) is solved successfully.
+Objective function value: -13555.7
+Violations cost         : 0.0
+The case: FP_20191125_F (TP45) is solved successfully.
+Objective function value: -11000.3
+Violations cost         : 0.0
+The case: FP_20191125_F (TP46) is solved successfully.
+Objective function value: -9100.2
+Violations cost         : 0.0
+The case: FP_20191125_F (TP47) is solved successfully.
+Objective function value: -8050.0
+Violations cost         : 0.0
+The case: FP_20191125_F (TP48) is solved successfully.
+Objective function value: -7881.3
+Violations cost         : 0.0
+Case: FP_20191125_F is complete in        23.66(secs)
+Case: FP_20191125_F is finished in       112.38(secs)
+
+Case "FP_20191126_F" started at: 07/13/20 13:51:45
+Vectorisation is switched ON
+The case: FP_20191126_F (TP1) is solved successfully.
+Objective function value: -8094.1
+Violations cost         : 0.0
+The case: FP_20191126_F (TP2) is solved successfully.
+Objective function value: -7950.1
+Violations cost         : 0.0
+The case: FP_20191126_F (TP3) is solved successfully.
+Objective function value: -7977.6
+Violations cost         : 0.0
+The case: FP_20191126_F (TP4) is solved successfully.
+Objective function value: -8575.5
+Violations cost         : 0.0
+The case: FP_20191126_F (TP5) is solved successfully.
+Objective function value: -7737.9
+Violations cost         : 0.0
+The case: FP_20191126_F (TP6) is solved successfully.
+Objective function value: -7324.0
+Violations cost         : 0.0
+The case: FP_20191126_F (TP7) is solved successfully.
+Objective function value: -7402.2
+Violations cost         : 0.0
+The case: FP_20191126_F (TP8) is solved successfully.
+Objective function value: -7336.7
+Violations cost         : 0.0
+The case: FP_20191126_F (TP9) is solved successfully.
+Objective function value: -7449.4
+Violations cost         : 0.0
+The case: FP_20191126_F (TP10) is solved successfully.
+Objective function value: -7763.5
+Violations cost         : 0.0
+The case: FP_20191126_F (TP11) is solved successfully.
+Objective function value: -8817.0
+Violations cost         : 0.0
+The case: FP_20191126_F (TP12) is solved successfully.
+Objective function value: -9303.9
+Violations cost         : 0.0
+The case: FP_20191126_F (TP13) is solved successfully.
+Objective function value: -10800.7
+Violations cost         : 0.0
+The case: FP_20191126_F (TP14) is solved successfully.
+Objective function value: -18248.5
+Violations cost         : 0.0
+The case: FP_20191126_F (TP15) is solved successfully.
+Objective function value: -22898.8
+Violations cost         : 0.0
+The case: FP_20191126_F (TP16) is solved successfully.
+Objective function value: -29110.5
+Violations cost         : 0.0
+The case: FP_20191126_F (TP17) is solved successfully.
+Objective function value: -30474.1
+Violations cost         : 0.0
+The case: FP_20191126_F (TP18) is solved successfully.
+Objective function value: -29767.4
+Violations cost         : 0.0
+The case: FP_20191126_F (TP19) is solved successfully.
+Objective function value: -35537.7
+Violations cost         : 0.0
+The case: FP_20191126_F (TP20) is solved successfully.
+Objective function value: -32082.3
+Violations cost         : 0.0
+The case: FP_20191126_F (TP21) is solved successfully.
+Objective function value: -31544.1
+Violations cost         : 0.0
+The case: FP_20191126_F (TP22) is solved successfully.
+Objective function value: -35057.3
+Violations cost         : 0.0
+The case: FP_20191126_F (TP23) is solved successfully.
+Objective function value: -2688577.8
+Violations cost         : 2652000.0
+The case: FP_20191126_F (TP24) is solved successfully.
+Objective function value: -33614.3
+Violations cost         : 0.0
+The case: FP_20191126_F (TP25) is solved successfully.
+Objective function value: -25815.7
+Violations cost         : 0.0
+The case: FP_20191126_F (TP26) is solved successfully.
+Objective function value: -23014.7
+Violations cost         : 0.0
+The case: FP_20191126_F (TP27) is solved successfully.
+Objective function value: -25298.3
+Violations cost         : 0.0
+The case: FP_20191126_F (TP28) is solved successfully.
+Objective function value: -24423.5
+Violations cost         : 0.0
+The case: FP_20191126_F (TP29) is solved successfully.
+Objective function value: -24700.0
+Violations cost         : 0.0
+The case: FP_20191126_F (TP30) is solved successfully.
+Objective function value: -23919.9
+Violations cost         : 0.0
+The case: FP_20191126_F (TP31) is solved successfully.
+Objective function value: -30240.4
+Violations cost         : 0.0
+The case: FP_20191126_F (TP32) is solved successfully.
+Objective function value: -33414.9
+Violations cost         : 0.0
+The case: FP_20191126_F (TP33) is solved successfully.
+Objective function value: -35839.4
+Violations cost         : 0.0
+The case: FP_20191126_F (TP34) is solved successfully.
+Objective function value: -34475.3
+Violations cost         : 0.0
+The case: FP_20191126_F (TP35) is solved successfully.
+Objective function value: -32843.2
+Violations cost         : 0.0
+The case: FP_20191126_F (TP36) is solved successfully.
+Objective function value: -32125.1
+Violations cost         : 0.0
+The case: FP_20191126_F (TP37) is solved successfully.
+Objective function value: -21754.0
+Violations cost         : 0.0
+The case: FP_20191126_F (TP38) is solved successfully.
+Objective function value: -19914.5
+Violations cost         : 0.0
+The case: FP_20191126_F (TP39) is solved successfully.
+Objective function value: -21825.3
+Violations cost         : 0.0
+The case: FP_20191126_F (TP40) is solved successfully.
+Objective function value: -14641.5
+Violations cost         : 0.0
+The case: FP_20191126_F (TP41) is solved successfully.
+Objective function value: -15052.6
+Violations cost         : 0.0
+The case: FP_20191126_F (TP42) is solved successfully.
+Objective function value: -20914.2
+Violations cost         : 0.0
+The case: FP_20191126_F (TP43) is solved successfully.
+Objective function value: -15994.0
+Violations cost         : 0.0
+The case: FP_20191126_F (TP44) is solved successfully.
+Objective function value: -12373.1
+Violations cost         : 0.0
+The case: FP_20191126_F (TP45) is solved successfully.
+Objective function value: -10872.4
+Violations cost         : 0.0
+The case: FP_20191126_F (TP46) is solved successfully.
+Objective function value: -8882.5
+Violations cost         : 0.0
+The case: FP_20191126_F (TP47) is solved successfully.
+Objective function value: -8274.1
+Violations cost         : 0.0
+The case: FP_20191126_F (TP48) is solved successfully.
+Objective function value: -9816.7
+Violations cost         : 0.0
+Case: FP_20191126_F is complete in        25.45(secs)
+Case: FP_20191126_F is finished in       107.50(secs)
+
+Case "FP_20191127_F" started at: 07/13/20 13:53:33
+Vectorisation is switched ON
+The case: FP_20191127_F (TP1) is solved successfully.
+Objective function value: -9899.7
+Violations cost         : 0.0
+The case: FP_20191127_F (TP2) is solved successfully.
+Objective function value: -9697.1
+Violations cost         : 0.0
+The case: FP_20191127_F (TP3) is solved successfully.
+Objective function value: -8493.0
+Violations cost         : 0.0
+The case: FP_20191127_F (TP4) is solved successfully.
+Objective function value: -7928.3
+Violations cost         : 0.0
+The case: FP_20191127_F (TP5) is solved successfully.
+Objective function value: -7615.9
+Violations cost         : 0.0
+The case: FP_20191127_F (TP6) is solved successfully.
+Objective function value: -7310.9
+Violations cost         : 0.0
+The case: FP_20191127_F (TP7) is solved successfully.
+Objective function value: -7033.1
+Violations cost         : 0.0
+The case: FP_20191127_F (TP8) is solved successfully.
+Objective function value: -6780.1
+Violations cost         : 0.0
+The case: FP_20191127_F (TP9) is solved successfully.
+Objective function value: -6861.4
+Violations cost         : 0.0
+The case: FP_20191127_F (TP10) is solved successfully.
+Objective function value: -7501.3
+Violations cost         : 0.0
+The case: FP_20191127_F (TP11) is solved successfully.
+Objective function value: -8596.8
+Violations cost         : 0.0
+The case: FP_20191127_F (TP12) is solved successfully.
+Objective function value: -11988.2
+Violations cost         : 0.0
+The case: FP_20191127_F (TP13) is solved successfully.
+Objective function value: -11883.5
+Violations cost         : 0.0
+The case: FP_20191127_F (TP14) is solved successfully.
+Objective function value: -55896.0
+Violations cost         : 0.0
+The case: FP_20191127_F (TP15) is solved successfully.
+Objective function value: -64450.0
+Violations cost         : 0.0
+The case: FP_20191127_F (TP16) is solved successfully.
+Objective function value: -36719.9
+Violations cost         : 0.0
+The case: FP_20191127_F (TP17) is solved successfully.
+Objective function value: -40622.6
+Violations cost         : 0.0
+The case: FP_20191127_F (TP18) is solved successfully.
+Objective function value: -20153.7
+Violations cost         : 0.0
+The case: FP_20191127_F (TP19) is solved successfully.
+Objective function value: -25717.5
+Violations cost         : 0.0
+The case: FP_20191127_F (TP20) is solved successfully.
+Objective function value: -15616.6
+Violations cost         : 0.0
+The case: FP_20191127_F (TP21) is solved successfully.
+Objective function value: -14314.3
+Violations cost         : 0.0
+The case: FP_20191127_F (TP22) is solved successfully.
+Objective function value: -22963.5
+Violations cost         : 0.0
+The case: FP_20191127_F (TP23) is solved successfully.
+Objective function value: -21832.0
+Violations cost         : 0.0
+The case: FP_20191127_F (TP24) is solved successfully.
+Objective function value: -31343.0
+Violations cost         : 0.0
+The case: FP_20191127_F (TP25) is solved successfully.
+Objective function value: -32341.3
+Violations cost         : 0.0
+The case: FP_20191127_F (TP26) is solved successfully.
+Objective function value: -35089.2
+Violations cost         : 0.0
+The case: FP_20191127_F (TP27) is solved successfully.
+Objective function value: -35643.3
+Violations cost         : 0.0
+The case: FP_20191127_F (TP28) is solved successfully.
+Objective function value: -31555.0
+Violations cost         : 0.0
+The case: FP_20191127_F (TP29) is solved successfully.
+Objective function value: -30111.8
+Violations cost         : 0.0
+The case: FP_20191127_F (TP30) is solved successfully.
+Objective function value: -31864.1
+Violations cost         : 0.0
+The case: FP_20191127_F (TP31) is solved successfully.
+Objective function value: -35209.5
+Violations cost         : 0.0
+The case: FP_20191127_F (TP32) is solved successfully.
+Objective function value: -41976.9
+Violations cost         : 0.0
+The case: FP_20191127_F (TP33) is solved successfully.
+Objective function value: -38216.1
+Violations cost         : 0.0
+The case: FP_20191127_F (TP34) is solved successfully.
+Objective function value: -41667.1
+Violations cost         : 0.0
+The case: FP_20191127_F (TP35) is solved successfully.
+Objective function value: -33964.5
+Violations cost         : 0.0
+The case: FP_20191127_F (TP36) is solved successfully.
+Objective function value: -33092.9
+Violations cost         : 0.0
+The case: FP_20191127_F (TP37) is solved successfully.
+Objective function value: -21276.4
+Violations cost         : 0.0
+The case: FP_20191127_F (TP38) is solved successfully.
+Objective function value: -22134.6
+Violations cost         : 0.0
+The case: FP_20191127_F (TP39) is solved successfully.
+Objective function value: -17060.9
+Violations cost         : 0.0
+The case: FP_20191127_F (TP40) is solved successfully.
+Objective function value: -16101.1
+Violations cost         : 0.0
+The case: FP_20191127_F (TP41) is solved successfully.
+Objective function value: -13520.0
+Violations cost         : 0.0
+The case: FP_20191127_F (TP42) is solved successfully.
+Objective function value: -13269.9
+Violations cost         : 0.0
+The case: FP_20191127_F (TP43) is solved successfully.
+Objective function value: -12163.5
+Violations cost         : 0.0
+The case: FP_20191127_F (TP44) is solved successfully.
+Objective function value: -9332.3
+Violations cost         : 0.0
+The case: FP_20191127_F (TP45) is solved successfully.
+Objective function value: -9007.6
+Violations cost         : 0.0
+The case: FP_20191127_F (TP46) is solved successfully.
+Objective function value: -8764.7
+Violations cost         : 0.0
+The case: FP_20191127_F (TP47) is solved successfully.
+Objective function value: -9831.9
+Violations cost         : 0.0
+The case: FP_20191127_F (TP48) is solved successfully.
+Objective function value: -8116.0
+Violations cost         : 0.0
+Case: FP_20191127_F is complete in        24.37(secs)
+Case: FP_20191127_F is finished in       109.90(secs)
+
+Case "FP_20191128_F" started at: 07/13/20 13:55:23
+Vectorisation is switched ON
+The case: FP_20191128_F (TP1) is solved successfully.
+Objective function value: -7611.3
+Violations cost         : 0.0
+The case: FP_20191128_F (TP2) is solved successfully.
+Objective function value: -7169.0
+Violations cost         : 0.0
+The case: FP_20191128_F (TP3) is solved successfully.
+Objective function value: -6897.0
+Violations cost         : 0.0
+The case: FP_20191128_F (TP4) is solved successfully.
+Objective function value: -9511.2
+Violations cost         : 0.0
+The case: FP_20191128_F (TP5) is solved successfully.
+Objective function value: -5855.9
+Violations cost         : 0.0
+The case: FP_20191128_F (TP6) is solved successfully.
+Objective function value: -5912.2
+Violations cost         : 0.0
+The case: FP_20191128_F (TP7) is solved successfully.
+Objective function value: -5958.9
+Violations cost         : 0.0
+The case: FP_20191128_F (TP8) is solved successfully.
+Objective function value: -6492.2
+Violations cost         : 0.0
+The case: FP_20191128_F (TP9) is solved successfully.
+Objective function value: -6609.0
+Violations cost         : 0.0
+The case: FP_20191128_F (TP10) is solved successfully.
+Objective function value: -6658.7
+Violations cost         : 0.0
+The case: FP_20191128_F (TP11) is solved successfully.
+Objective function value: -7370.6
+Violations cost         : 0.0
+The case: FP_20191128_F (TP12) is solved successfully.
+Objective function value: -8319.6
+Violations cost         : 0.0
+The case: FP_20191128_F (TP13) is solved successfully.
+Objective function value: -15416.8
+Violations cost         : 0.0
+The case: FP_20191128_F (TP14) is solved successfully.
+Objective function value: -20753.2
+Violations cost         : 0.0
+The case: FP_20191128_F (TP15) is solved successfully.
+Objective function value: -20190.1
+Violations cost         : 0.0
+The case: FP_20191128_F (TP16) is solved successfully.
+Objective function value: -24985.4
+Violations cost         : 0.0
+The case: FP_20191128_F (TP17) is solved successfully.
+Objective function value: -32510.9
+Violations cost         : 0.0
+The case: FP_20191128_F (TP18) is solved successfully.
+Objective function value: -33249.5
+Violations cost         : 0.0
+The case: FP_20191128_F (TP19) is solved successfully.
+Objective function value: -36776.3
+Violations cost         : 0.0
+The case: FP_20191128_F (TP20) is solved successfully.
+Objective function value: -32924.9
+Violations cost         : 0.0
+The case: FP_20191128_F (TP21) is solved successfully.
+Objective function value: -35383.5
+Violations cost         : 0.0
+The case: FP_20191128_F (TP22) is solved successfully.
+Objective function value: -37115.2
+Violations cost         : 0.0
+The case: FP_20191128_F (TP23) is solved successfully.
+Objective function value: -37431.7
+Violations cost         : 0.0
+The case: FP_20191128_F (TP24) is solved successfully.
+Objective function value: -39874.6
+Violations cost         : 0.0
+The case: FP_20191128_F (TP25) is solved successfully.
+Objective function value: -40501.1
+Violations cost         : 0.0
+The case: FP_20191128_F (TP26) is solved successfully.
+Objective function value: -55922.9
+Violations cost         : 0.0
+The case: FP_20191128_F (TP27) is solved successfully.
+Objective function value: -65418.6
+Violations cost         : 0.0
+The case: FP_20191128_F (TP28) is solved successfully.
+Objective function value: -67244.1
+Violations cost         : 0.0
+The case: FP_20191128_F (TP29) is solved successfully.
+Objective function value: -74333.7
+Violations cost         : 0.0
+The case: FP_20191128_F (TP30) is solved successfully.
+Objective function value: -70761.3
+Violations cost         : 0.0
+The case: FP_20191128_F (TP31) is solved successfully.
+Objective function value: -73258.9
+Violations cost         : 0.0
+The case: FP_20191128_F (TP32) is solved successfully.
+Objective function value: -69719.9
+Violations cost         : 0.0
+The case: FP_20191128_F (TP33) is solved successfully.
+Objective function value: -55571.4
+Violations cost         : 0.0
+The case: FP_20191128_F (TP34) is solved successfully.
+Objective function value: -58113.9
+Violations cost         : 0.0
+The case: FP_20191128_F (TP35) is solved successfully.
+Objective function value: -56221.7
+Violations cost         : 0.0
+The case: FP_20191128_F (TP36) is solved successfully.
+Objective function value: -54441.1
+Violations cost         : 0.0
+The case: FP_20191128_F (TP37) is solved successfully.
+Objective function value: -44837.0
+Violations cost         : 0.0
+The case: FP_20191128_F (TP38) is solved successfully.
+Objective function value: -41822.2
+Violations cost         : 0.0
+The case: FP_20191128_F (TP39) is solved successfully.
+Objective function value: -37991.4
+Violations cost         : 0.0
+The case: FP_20191128_F (TP40) is solved successfully.
+Objective function value: -34956.6
+Violations cost         : 0.0
+The case: FP_20191128_F (TP41) is solved successfully.
+Objective function value: -31506.3
+Violations cost         : 0.0
+The case: FP_20191128_F (TP42) is solved successfully.
+Objective function value: -32450.6
+Violations cost         : 0.0
+The case: FP_20191128_F (TP43) is solved successfully.
+Objective function value: -29680.0
+Violations cost         : 0.0
+The case: FP_20191128_F (TP44) is solved successfully.
+Objective function value: -21965.2
+Violations cost         : 0.0
+The case: FP_20191128_F (TP45) is solved successfully.
+Objective function value: -21507.7
+Violations cost         : 0.0
+The case: FP_20191128_F (TP46) is solved successfully.
+Objective function value: -14653.4
+Violations cost         : 0.0
+The case: FP_20191128_F (TP47) is solved successfully.
+Objective function value: -10975.4
+Violations cost         : 0.0
+The case: FP_20191128_F (TP48) is solved successfully.
+Objective function value: -8360.2
+Violations cost         : 0.0
+Case: FP_20191128_F is complete in        22.86(secs)
+Case: FP_20191128_F is finished in       109.64(secs)
+
+Case "FP_20191129_F" started at: 07/13/20 13:57:13
+Vectorisation is switched ON
+The case: FP_20191129_F (TP1) is solved successfully.
+Objective function value: -8266.4
+Violations cost         : 0.0
+The case: FP_20191129_F (TP2) is solved successfully.
+Objective function value: -7551.8
+Violations cost         : 0.0
+The case: FP_20191129_F (TP3) is solved successfully.
+Objective function value: -7518.2
+Violations cost         : 0.0
+The case: FP_20191129_F (TP4) is solved successfully.
+Objective function value: -7937.5
+Violations cost         : 0.0
+The case: FP_20191129_F (TP5) is solved successfully.
+Objective function value: -7608.8
+Violations cost         : 0.0
+The case: FP_20191129_F (TP6) is solved successfully.
+Objective function value: -6913.2
+Violations cost         : 0.0
+The case: FP_20191129_F (TP7) is solved successfully.
+Objective function value: -6924.9
+Violations cost         : 0.0
+The case: FP_20191129_F (TP8) is solved successfully.
+Objective function value: -8084.1
+Violations cost         : 0.0
+The case: FP_20191129_F (TP9) is solved successfully.
+Objective function value: -7747.8
+Violations cost         : 0.0
+The case: FP_20191129_F (TP10) is solved successfully.
+Objective function value: -8394.5
+Violations cost         : 0.0
+The case: FP_20191129_F (TP11) is solved successfully.
+Objective function value: -9100.8
+Violations cost         : 0.0
+The case: FP_20191129_F (TP12) is solved successfully.
+Objective function value: -11232.6
+Violations cost         : 0.0
+The case: FP_20191129_F (TP13) is solved successfully.
+Objective function value: -24278.5
+Violations cost         : 0.0
+The case: FP_20191129_F (TP14) is solved successfully.
+Objective function value: -29990.7
+Violations cost         : 0.0
+The case: FP_20191129_F (TP15) is solved successfully.
+Objective function value: -26096.9
+Violations cost         : 0.0
+The case: FP_20191129_F (TP16) is solved successfully.
+Objective function value: -33742.8
+Violations cost         : 0.0
+The case: FP_20191129_F (TP17) is solved successfully.
+Objective function value: -42335.5
+Violations cost         : 0.0
+The case: FP_20191129_F (TP18) is solved successfully.
+Objective function value: -43735.2
+Violations cost         : 0.0
+The case: FP_20191129_F (TP19) is solved successfully.
+Objective function value: -44407.9
+Violations cost         : 0.0
+The case: FP_20191129_F (TP20) is solved successfully.
+Objective function value: -48725.6
+Violations cost         : 0.0
+The case: FP_20191129_F (TP21) is solved successfully.
+Objective function value: -43243.4
+Violations cost         : 0.0
+The case: FP_20191129_F (TP22) is solved successfully.
+Objective function value: -45406.2
+Violations cost         : 0.0
+The case: FP_20191129_F (TP23) is solved successfully.
+Objective function value: -51341.6
+Violations cost         : 0.0
+The case: FP_20191129_F (TP24) is solved successfully.
+Objective function value: -53976.2
+Violations cost         : 0.0
+The case: FP_20191129_F (TP25) is solved successfully.
+Objective function value: -53900.6
+Violations cost         : 0.0
+The case: FP_20191129_F (TP26) is solved successfully.
+Objective function value: -55137.1
+Violations cost         : 0.0
+The case: FP_20191129_F (TP27) is solved successfully.
+Objective function value: -62840.5
+Violations cost         : 0.0
+The case: FP_20191129_F (TP28) is solved successfully.
+Objective function value: -65444.4
+Violations cost         : 0.0
+The case: FP_20191129_F (TP29) is solved successfully.
+Objective function value: -65489.4
+Violations cost         : 0.0
+The case: FP_20191129_F (TP30) is solved successfully.
+Objective function value: -59531.1
+Violations cost         : 0.0
+The case: FP_20191129_F (TP31) is solved successfully.
+Objective function value: -46369.1
+Violations cost         : 0.0
+The case: FP_20191129_F (TP32) is solved successfully.
+Objective function value: -41760.8
+Violations cost         : 0.0
+The case: FP_20191129_F (TP33) is solved successfully.
+Objective function value: -39203.2
+Violations cost         : 0.0
+The case: FP_20191129_F (TP34) is solved successfully.
+Objective function value: -37521.0
+Violations cost         : 0.0
+The case: FP_20191129_F (TP35) is solved successfully.
+Objective function value: -27596.7
+Violations cost         : 0.0
+The case: FP_20191129_F (TP36) is solved successfully.
+Objective function value: -29255.8
+Violations cost         : 0.0
+The case: FP_20191129_F (TP37) is solved successfully.
+Objective function value: -24315.9
+Violations cost         : 0.0
+The case: FP_20191129_F (TP38) is solved successfully.
+Objective function value: -27061.4
+Violations cost         : 0.0
+The case: FP_20191129_F (TP39) is solved successfully.
+Objective function value: -24339.7
+Violations cost         : 0.0
+The case: FP_20191129_F (TP40) is solved successfully.
+Objective function value: -19030.9
+Violations cost         : 0.0
+The case: FP_20191129_F (TP41) is solved successfully.
+Objective function value: -16231.9
+Violations cost         : 0.0
+The case: FP_20191129_F (TP42) is solved successfully.
+Objective function value: -14927.6
+Violations cost         : 0.0
+The case: FP_20191129_F (TP43) is solved successfully.
+Objective function value: -16085.8
+Violations cost         : 0.0
+The case: FP_20191129_F (TP44) is solved successfully.
+Objective function value: -24722.9
+Violations cost         : 0.0
+The case: FP_20191129_F (TP45) is solved successfully.
+Objective function value: -33131.0
+Violations cost         : 0.0
+The case: FP_20191129_F (TP46) is solved successfully.
+Objective function value: -27036.9
+Violations cost         : 0.0
+The case: FP_20191129_F (TP47) is solved successfully.
+Objective function value: -23609.1
+Violations cost         : 0.0
+The case: FP_20191129_F (TP48) is solved successfully.
+Objective function value: -17025.5
+Violations cost         : 0.0
+Case: FP_20191129_F is complete in        22.95(secs)
+Case: FP_20191129_F is finished in       111.26(secs)
+
+Case "FP_20191130_F" started at: 07/13/20 13:59:05
+Vectorisation is switched ON
+The case: FP_20191130_F (TP1) is solved successfully.
+Objective function value: -10915.7
+Violations cost         : 0.0
+The case: FP_20191130_F (TP2) is solved successfully.
+Objective function value: -8276.0
+Violations cost         : 0.0
+The case: FP_20191130_F (TP3) is solved successfully.
+Objective function value: -9097.2
+Violations cost         : 0.0
+The case: FP_20191130_F (TP4) is solved successfully.
+Objective function value: -7855.4
+Violations cost         : 0.0
+The case: FP_20191130_F (TP5) is solved successfully.
+Objective function value: -9051.3
+Violations cost         : 0.0
+The case: FP_20191130_F (TP6) is solved successfully.
+Objective function value: -7532.7
+Violations cost         : 0.0
+The case: FP_20191130_F (TP7) is solved successfully.
+Objective function value: -7413.5
+Violations cost         : 0.0
+The case: FP_20191130_F (TP8) is solved successfully.
+Objective function value: -7496.6
+Violations cost         : 0.0
+The case: FP_20191130_F (TP9) is solved successfully.
+Objective function value: -7440.2
+Violations cost         : 0.0
+The case: FP_20191130_F (TP10) is solved successfully.
+Objective function value: -7548.1
+Violations cost         : 0.0
+The case: FP_20191130_F (TP11) is solved successfully.
+Objective function value: -9072.9
+Violations cost         : 0.0
+The case: FP_20191130_F (TP12) is solved successfully.
+Objective function value: -10488.4
+Violations cost         : 0.0
+The case: FP_20191130_F (TP13) is solved successfully.
+Objective function value: -12400.3
+Violations cost         : 0.0
+The case: FP_20191130_F (TP14) is solved successfully.
+Objective function value: -19035.3
+Violations cost         : 0.0
+The case: FP_20191130_F (TP15) is solved successfully.
+Objective function value: -27936.0
+Violations cost         : 0.0
+The case: FP_20191130_F (TP16) is solved successfully.
+Objective function value: -38282.8
+Violations cost         : 0.0
+The case: FP_20191130_F (TP17) is solved successfully.
+Objective function value: -35118.7
+Violations cost         : 0.0
+The case: FP_20191130_F (TP18) is solved successfully.
+Objective function value: -39498.7
+Violations cost         : 0.0
+The case: FP_20191130_F (TP19) is solved successfully.
+Objective function value: -40506.6
+Violations cost         : 0.0
+The case: FP_20191130_F (TP20) is solved successfully.
+Objective function value: -43193.3
+Violations cost         : 0.0
+The case: FP_20191130_F (TP21) is solved successfully.
+Objective function value: -34812.4
+Violations cost         : 0.0
+The case: FP_20191130_F (TP22) is solved successfully.
+Objective function value: -34209.2
+Violations cost         : 0.0
+The case: FP_20191130_F (TP23) is solved successfully.
+Objective function value: -33686.7
+Violations cost         : 0.0
+The case: FP_20191130_F (TP24) is solved successfully.
+Objective function value: -38724.2
+Violations cost         : 0.0
+The case: FP_20191130_F (TP25) is solved successfully.
+Objective function value: -32002.5
+Violations cost         : 0.0
+The case: FP_20191130_F (TP26) is solved successfully.
+Objective function value: -30817.7
+Violations cost         : 0.0
+The case: FP_20191130_F (TP27) is solved successfully.
+Objective function value: -26749.6
+Violations cost         : 0.0
+The case: FP_20191130_F (TP28) is solved successfully.
+Objective function value: -24521.6
+Violations cost         : 0.0
+The case: FP_20191130_F (TP29) is solved successfully.
+Objective function value: -26424.2
+Violations cost         : 0.0
+The case: FP_20191130_F (TP30) is solved successfully.
+Objective function value: -28551.3
+Violations cost         : 0.0
+The case: FP_20191130_F (TP31) is solved successfully.
+Objective function value: -33047.3
+Violations cost         : 0.0
+The case: FP_20191130_F (TP32) is solved successfully.
+Objective function value: -29295.2
+Violations cost         : 0.0
+The case: FP_20191130_F (TP33) is solved successfully.
+Objective function value: -44454.6
+Violations cost         : 0.0
+The case: FP_20191130_F (TP34) is solved successfully.
+Objective function value: -28921.2
+Violations cost         : 0.0
+The case: FP_20191130_F (TP35) is solved successfully.
+Objective function value: -27139.4
+Violations cost         : 0.0
+The case: FP_20191130_F (TP36) is solved successfully.
+Objective function value: -26527.4
+Violations cost         : 0.0
+The case: FP_20191130_F (TP37) is solved successfully.
+Objective function value: -27906.9
+Violations cost         : 0.0
+The case: FP_20191130_F (TP38) is solved successfully.
+Objective function value: -33690.8
+Violations cost         : 0.0
+The case: FP_20191130_F (TP39) is solved successfully.
+Objective function value: -45928.7
+Violations cost         : 0.0
+The case: FP_20191130_F (TP40) is solved successfully.
+Objective function value: -63022.2
+Violations cost         : 0.0
+The case: FP_20191130_F (TP41) is solved successfully.
+Objective function value: -51237.1
+Violations cost         : 0.0
+The case: FP_20191130_F (TP42) is solved successfully.
+Objective function value: -43623.0
+Violations cost         : 0.0
+The case: FP_20191130_F (TP43) is solved successfully.
+Objective function value: -30266.5
+Violations cost         : 0.0
+The case: FP_20191130_F (TP44) is solved successfully.
+Objective function value: -26048.1
+Violations cost         : 0.0
+The case: FP_20191130_F (TP45) is solved successfully.
+Objective function value: -24285.6
+Violations cost         : 0.0
+The case: FP_20191130_F (TP46) is solved successfully.
+Objective function value: -21284.2
+Violations cost         : 0.0
+The case: FP_20191130_F (TP47) is solved successfully.
+Objective function value: -18779.3
+Violations cost         : 0.0
+The case: FP_20191130_F (TP48) is solved successfully.
+Objective function value: -15761.1
+Violations cost         : 0.0
+Case: FP_20191130_F is complete in        23.10(secs)
+Case: FP_20191130_F is finished in       113.15(secs)
+
+Case "FP_20191201_F" started at: 07/13/20 14:00:58
+Vectorisation is switched ON
+The case: FP_20191201_F (TP1) is solved successfully.
+Objective function value: -10162.3
+Violations cost         : 0.0
+The case: FP_20191201_F (TP2) is solved unsuccessfully.
+The case: FP_20191201_F (TP3) is solved successfully.
+Objective function value: -7076.2
+Violations cost         : 0.0
+The case: FP_20191201_F (TP4) is solved successfully.
+Objective function value: -6969.8
+Violations cost         : 0.0
+The case: FP_20191201_F (TP5) is solved successfully.
+Objective function value: -6543.7
+Violations cost         : 0.0
+The case: FP_20191201_F (TP6) is solved successfully.
+Objective function value: -6261.0
+Violations cost         : 0.0
+The case: FP_20191201_F (TP7) is solved successfully.
+Objective function value: -6341.2
+Violations cost         : 0.0
+The case: FP_20191201_F (TP8) is solved successfully.
+Objective function value: -7570.7
+Violations cost         : 0.0
+The case: FP_20191201_F (TP9) is solved successfully.
+Objective function value: -6499.1
+Violations cost         : 0.0
+The case: FP_20191201_F (TP10) is solved successfully.
+Objective function value: -6373.4
+Violations cost         : 0.0
+The case: FP_20191201_F (TP11) is solved successfully.
+Objective function value: -8194.9
+Violations cost         : 0.0
+The case: FP_20191201_F (TP12) is solved successfully.
+Objective function value: -9092.1
+Violations cost         : 0.0
+The case: FP_20191201_F (TP13) is solved successfully.
+Objective function value: -9866.9
+Violations cost         : 0.0
+The case: FP_20191201_F (TP14) is solved successfully.
+Objective function value: -9076.9
+Violations cost         : 0.0
+The case: FP_20191201_F (TP15) is solved successfully.
+Objective function value: -10114.2
+Violations cost         : 0.0
+The case: FP_20191201_F (TP16) is solved successfully.
+Objective function value: -14534.4
+Violations cost         : 0.0
+The case: FP_20191201_F (TP17) is solved successfully.
+Objective function value: -16826.9
+Violations cost         : 0.0
+The case: FP_20191201_F (TP18) is solved successfully.
+Objective function value: -17494.7
+Violations cost         : 0.0
+The case: FP_20191201_F (TP19) is solved successfully.
+Objective function value: -15177.2
+Violations cost         : 0.0
+The case: FP_20191201_F (TP20) is solved successfully.
+Objective function value: -15219.5
+Violations cost         : 0.0
+The case: FP_20191201_F (TP21) is solved successfully.
+Objective function value: -16667.5
+Violations cost         : 0.0
+The case: FP_20191201_F (TP22) is solved successfully.
+Objective function value: -16749.4
+Violations cost         : 0.0
+The case: FP_20191201_F (TP23) is solved successfully.
+Objective function value: -17143.4
+Violations cost         : 0.0
+The case: FP_20191201_F (TP24) is solved successfully.
+Objective function value: -20001.3
+Violations cost         : 0.0
+The case: FP_20191201_F (TP25) is solved successfully.
+Objective function value: -15912.3
+Violations cost         : 0.0
+The case: FP_20191201_F (TP26) is solved successfully.
+Objective function value: -15025.7
+Violations cost         : 0.0
+The case: FP_20191201_F (TP27) is solved successfully.
+Objective function value: -15683.9
+Violations cost         : 0.0
+The case: FP_20191201_F (TP28) is solved successfully.
+Objective function value: -17164.2
+Violations cost         : 0.0
+The case: FP_20191201_F (TP29) is solved successfully.
+Objective function value: -13581.6
+Violations cost         : 0.0
+The case: FP_20191201_F (TP30) is solved successfully.
+Objective function value: -14669.6
+Violations cost         : 0.0
+The case: FP_20191201_F (TP31) is solved successfully.
+Objective function value: -19985.3
+Violations cost         : 0.0
+The case: FP_20191201_F (TP32) is solved successfully.
+Objective function value: -26515.1
+Violations cost         : 0.0
+The case: FP_20191201_F (TP33) is solved successfully.
+Objective function value: -29895.3
+Violations cost         : 0.0
+The case: FP_20191201_F (TP34) is solved successfully.
+Objective function value: -28127.5
+Violations cost         : 0.0
+The case: FP_20191201_F (TP35) is solved successfully.
+Objective function value: -27252.5
+Violations cost         : 0.0
+The case: FP_20191201_F (TP36) is solved successfully.
+Objective function value: -25063.0
+Violations cost         : 0.0
+The case: FP_20191201_F (TP37) is solved successfully.
+Objective function value: -28311.7
+Violations cost         : 0.0
+The case: FP_20191201_F (TP38) is solved successfully.
+Objective function value: -30752.3
+Violations cost         : 0.0
+The case: FP_20191201_F (TP39) is solved successfully.
+Objective function value: -29707.4
+Violations cost         : 0.0
+The case: FP_20191201_F (TP40) is solved successfully.
+Objective function value: -30661.8
+Violations cost         : 0.0
+The case: FP_20191201_F (TP41) is solved successfully.
+Objective function value: -32709.6
+Violations cost         : 0.0
+The case: FP_20191201_F (TP42) is solved successfully.
+Objective function value: -37719.8
+Violations cost         : 0.0
+The case: FP_20191201_F (TP43) is solved successfully.
+Objective function value: -30137.2
+Violations cost         : 0.0
+The case: FP_20191201_F (TP44) is solved successfully.
+Objective function value: -20430.9
+Violations cost         : 0.0
+The case: FP_20191201_F (TP45) is solved successfully.
+Objective function value: -12973.0
+Violations cost         : 0.0
+The case: FP_20191201_F (TP46) is solved successfully.
+Objective function value: -10738.7
+Violations cost         : 0.0
+The case: FP_20191201_F (TP47) is solved successfully.
+Objective function value: -9030.8
+Violations cost         : 0.0
+The case: FP_20191201_F (TP48) is solved successfully.
+Objective function value: -7126.9
+Violations cost         : 0.0
+Case: FP_20191201_F is complete in        24.01(secs)
+Case: FP_20191201_F is finished in      3719.48(secs)
+
+Case "FP_20191202_F" started at: 07/13/20 15:02:58
+Vectorisation is switched ON
+The case: FP_20191202_F (TP1) is solved successfully.
+Objective function value: -6225.8
+Violations cost         : 0.0
+The case: FP_20191202_F (TP2) is solved successfully.
+Objective function value: -5777.9
+Violations cost         : 0.0
+The case: FP_20191202_F (TP3) is solved successfully.
+Objective function value: -5958.4
+Violations cost         : 0.0
+The case: FP_20191202_F (TP4) is solved successfully.
+Objective function value: -5924.6
+Violations cost         : 0.0
+The case: FP_20191202_F (TP5) is solved successfully.
+Objective function value: -5653.1
+Violations cost         : 0.0
+The case: FP_20191202_F (TP6) is solved successfully.
+Objective function value: -5608.7
+Violations cost         : 0.0
+The case: FP_20191202_F (TP7) is solved successfully.
+Objective function value: -5620.1
+Violations cost         : 0.0
+The case: FP_20191202_F (TP8) is solved successfully.
+Objective function value: -7098.1
+Violations cost         : 0.0
+The case: FP_20191202_F (TP9) is solved successfully.
+Objective function value: -6030.5
+Violations cost         : 0.0
+The case: FP_20191202_F (TP10) is solved successfully.
+Objective function value: -7561.7
+Violations cost         : 0.0
+The case: FP_20191202_F (TP11) is solved successfully.
+Objective function value: -8021.8
+Violations cost         : 0.0
+The case: FP_20191202_F (TP12) is solved successfully.
+Objective function value: -11271.8
+Violations cost         : 0.0
+The case: FP_20191202_F (TP13) is solved successfully.
+Objective function value: -24211.7
+Violations cost         : 0.0
+The case: FP_20191202_F (TP14) is solved successfully.
+Objective function value: -30159.7
+Violations cost         : 0.0
+The case: FP_20191202_F (TP15) is solved successfully.
+Objective function value: -36880.1
+Violations cost         : 0.0
+The case: FP_20191202_F (TP16) is solved successfully.
+Objective function value: -47015.1
+Violations cost         : 0.0
+The case: FP_20191202_F (TP17) is solved successfully.
+Objective function value: -49187.4
+Violations cost         : 0.0
+The case: FP_20191202_F (TP18) is solved successfully.
+Objective function value: -47676.5
+Violations cost         : 0.0
+The case: FP_20191202_F (TP19) is solved successfully.
+Objective function value: -50820.9
+Violations cost         : 0.0
+The case: FP_20191202_F (TP20) is solved successfully.
+Objective function value: -52852.9
+Violations cost         : 0.0
+The case: FP_20191202_F (TP21) is solved successfully.
+Objective function value: -49955.0
+Violations cost         : 0.0
+The case: FP_20191202_F (TP22) is solved successfully.
+Objective function value: -49772.4
+Violations cost         : 0.0
+The case: FP_20191202_F (TP23) is solved successfully.
+Objective function value: -53315.6
+Violations cost         : 0.0
+The case: FP_20191202_F (TP24) is solved successfully.
+Objective function value: -50773.3
+Violations cost         : 0.0
+The case: FP_20191202_F (TP25) is solved successfully.
+Objective function value: -46593.0
+Violations cost         : 0.0
+The case: FP_20191202_F (TP26) is solved successfully.
+Objective function value: -54169.6
+Violations cost         : 0.0
+The case: FP_20191202_F (TP27) is solved successfully.
+Objective function value: -65924.9
+Violations cost         : 0.0
+The case: FP_20191202_F (TP28) is solved successfully.
+Objective function value: -69810.4
+Violations cost         : 0.0
+The case: FP_20191202_F (TP29) is solved successfully.
+Objective function value: -75564.0
+Violations cost         : 0.0
+The case: FP_20191202_F (TP30) is solved successfully.
+Objective function value: -97931.3
+Violations cost         : 0.0
+The case: FP_20191202_F (TP31) is solved successfully.
+Objective function value: -90401.3
+Violations cost         : 0.0
+The case: FP_20191202_F (TP32) is solved successfully.
+Objective function value: -72957.6
+Violations cost         : 0.0
+The case: FP_20191202_F (TP33) is solved successfully.
+Objective function value: -51595.8
+Violations cost         : 0.0
+The case: FP_20191202_F (TP34) is solved successfully.
+Objective function value: -46542.5
+Violations cost         : 0.0
+The case: FP_20191202_F (TP35) is solved successfully.
+Objective function value: -39797.9
+Violations cost         : 0.0
+The case: FP_20191202_F (TP36) is solved successfully.
+Objective function value: -43353.5
+Violations cost         : 0.0
+The case: FP_20191202_F (TP37) is solved successfully.
+Objective function value: -44433.0
+Violations cost         : 0.0
+The case: FP_20191202_F (TP38) is solved successfully.
+Objective function value: -43146.4
+Violations cost         : 0.0
+The case: FP_20191202_F (TP39) is solved successfully.
+Objective function value: -54393.3
+Violations cost         : 0.0
+The case: FP_20191202_F (TP40) is solved successfully.
+Objective function value: -47270.1
+Violations cost         : 0.0
+The case: FP_20191202_F (TP41) is solved successfully.
+Objective function value: -31728.8
+Violations cost         : 0.0
+The case: FP_20191202_F (TP42) is solved successfully.
+Objective function value: -35304.9
+Violations cost         : 0.0
+The case: FP_20191202_F (TP43) is solved successfully.
+Objective function value: -27958.8
+Violations cost         : 0.0
+The case: FP_20191202_F (TP44) is solved successfully.
+Objective function value: -18542.6
+Violations cost         : 0.0
+The case: FP_20191202_F (TP45) is solved successfully.
+Objective function value: -17913.0
+Violations cost         : 0.0
+The case: FP_20191202_F (TP46) is solved successfully.
+Objective function value: -9548.4
+Violations cost         : 0.0
+The case: FP_20191202_F (TP47) is solved successfully.
+Objective function value: -9814.1
+Violations cost         : 0.0
+The case: FP_20191202_F (TP48) is solved successfully.
+Objective function value: -8785.6
+Violations cost         : 0.0
+Case: FP_20191202_F is complete in        26.51(secs)
+Case: FP_20191202_F is finished in       114.31(secs)
+
+Total execute time:      6307.09(secs)
