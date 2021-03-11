@@ -156,7 +156,6 @@ def timeseries_convert(df, keep_tp_index=True):
     This gives better ts plotting in matplotlib)
 
     Daylight savings is a nuisance, used the CDS Gnash method for this...
-    This seems a bit bastardized, surely there is a better way!
     ***NOTE***: only works on full days of data, make sure data set is not tuncated
     '''
     dc = daily_count(df, )
