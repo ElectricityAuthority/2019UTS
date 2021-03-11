@@ -35,7 +35,7 @@ https://github.com/ElectricityAuthority/2019UTS/blob/master/UTS2019_NOV_ROX_CYD_
 
 #### UPDATE Actions to Correct (2021/3/11)
 
-We have added data and analysis used in the consulation paper for the proposed Actions to Correct here:
+We have added data and analysis used in the consulation paper for the proposed Actions to Correct the UTS - here:
 
 https://github.com/ElectricityAuthority/2019UTS/blob/24b0105df433462ab67cbdbde5724afa698f2d64/ATC/ATC.ipynb
 
